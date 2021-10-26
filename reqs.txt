@@ -1,0 +1,27 @@
+python 3.7
+
+Libraries used:
+
+statistics
+pandas
+numpy
+ast 
+copy
+itertools
+tqdm
+textblob
+nltk
+networkx
+matplotlib
+scipy
+math
+random
+scipy
+re
+collections
+operator
+pylab
+time
+pickle
+multiprocessing
+copy
