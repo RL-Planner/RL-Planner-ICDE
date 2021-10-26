@@ -1,0 +1,90 @@
+111 front street,street_address,1
+abingdon sq,route,1
+abyssinian baptist church,church,1.5
+american museum of natural history,museum,3
+battery park,park,1.5
+bowling green,park,1.5
+bridgemarket,grocery_or_supermarket,1
+brooklyn bridge,establishment,1.5
+bryant park,park,1.5
+cathedral of st john the divine,church,1.5
+central park,park,1.5
+chelsea art museum,art_gallery,3
+chelsea hotel,lodging,1
+childrens museum of manhattan,museum,3
+chinatown,neighborhood,1.5
+chrysler building,establishment,1.5
+city hall,local_government_office,1.5
+colonnade row,museum,3
+columbus park,park,1.5
+coney island boardwalk,route,1
+drawing center,museum,3
+dumbo,neighborhood,1.5
+east river park,park,1.5
+eldridge st synagogue,museum,3
+ellis island,establishment,1.5
+empire state building,museum,3
+federal hall,museum,3
+federal reserve bank,establishment,1.5
+flatiron building,establishment,1.5
+frick collection,museum,3
+gallery 128,art_gallery,3
+grace church,church,1.5
+grand central terminal,transit_station,1
+ground zero,establishment,1.5
+herald square,town_square,1
+historical society,museum,3
+hudson river park,park,1.5
+lincoln center,establishment,1.5
+madison sq park,park,1.5
+merchants house museum,museum,3
+metropolitan museum of art,art_gallery,3
+moma,art_gallery,3
+mulberry st,route,1
+museum at fit,museum,3
+museum of modern art,museum,3
+museum of sex,museum,3
+museum of television and radio,museum,3
+museum of the city of new york,museum,3
+national arts club,art_gallery,3
+national museum of the american indian,museum,3
+neue galerie,museum,3
+new museum of contemporary art,museum,3
+new york aquarium,aquarium,2
+new york fire museum,museum,3
+new york marble cemetery,cemetery,1
+new york public library,library,1
+new york stock exchange,finance,1.5
+new york transit museum,museum,3
+new york university,university,1
+new-york historical society,museum,3
+pierpont morgan library,museum,3
+prospect park,park,1.5
+radio city music hall,establishment,1.5
+riverside church,church,1.5
+riverside park,park,1.5
+rockefeller center,establishment,1.5
+schomburg center for research in black culture,establishment,1.5
+sheridan square,route,1
+solomon r guggenheim museum,museum,3
+south st seaport,route,1
+st marks in the bowery,church,1.5
+st patricks cathedral,church,1.5
+st patricks old cathedral,church,1.5
+st pauls chapel,church,1.5
+staten island ferry,route,1
+statue of liberty,establishment,1.5
+studio museum,museum,3
+tenement museum,museum,3
+the dakota,establishment,1.5
+tompkins square park,park,1.5
+trinity church,church,1.5
+union sq,political,1.5
+united nations,establishment,1.5
+washington mews,route,1
+washington sq park,park,1.5
+whitney museum of american art,museum,3
+wildlife center,establishment,1.5
+wollman skating rink,establishment,1.5
+world trade center site,premise,1
+yankee stadium,stadium,1

@@ -1,0 +1,2908 @@
+empire state building,museum
+"cathedral of st john the divine,staten island ferry,studio museum","church,route,museum"
+"radio city music hall,rockefeller center,pierpont morgan library","establishment,establishment,museum"
+new york university,university
+union sq,political
+brooklyn bridge,establishment
+chelsea art museum,art_gallery
+"new york stock exchange,new york university","finance,university"
+central park,park
+new york university,university
+"ellis island,new york university","establishment,university"
+"empire state building,new york stock exchange,st patricks cathedral,brooklyn bridge","museum,finance,church,establishment"
+"new york university,empire state building","university,museum"
+statue of liberty,establishment
+central park,park
+"staten island ferry,rockefeller center,empire state building","route,establishment,museum"
+"statue of liberty,staten island ferry,ellis island","establishment,route,establishment"
+new york university,university
+empire state building,museum
+"metropolitan museum of art,new york aquarium","art_gallery,aquarium"
+"st patricks cathedral,national museum of the american indian,chelsea art museum,museum of sex,empire state building","church,museum,art_gallery,museum,museum"
+"empire state building,wollman skating rink","museum,establishment"
+"american museum of natural history,central park,metropolitan museum of art,empire state building,brooklyn bridge","museum,park,art_gallery,museum,establishment"
+"new york university,new york public library","university,library"
+"empire state building,brooklyn bridge","museum,establishment"
+rockefeller center,establishment
+new york university,university
+"statue of liberty,central park,new york university","establishment,park,university"
+chelsea hotel,lodging
+new york university,university
+"central park,chrysler building,metropolitan museum of art,chinatown,battery park,empire state building,solomon r guggenheim museum","park,establishment,art_gallery,neighborhood,park,museum,museum"
+new york university,university
+new york aquarium,aquarium
+"coney island boardwalk,new york aquarium,museum at fit","route,aquarium,museum"
+"new york aquarium,new york stock exchange,radio city music hall,empire state building,yankee stadium","aquarium,finance,establishment,museum,stadium"
+new york university,university
+new york aquarium,aquarium
+"new york university,empire state building,riverside park","university,museum,park"
+city hall,local_government_office
+"chinatown,coney island boardwalk","neighborhood,route"
+new york aquarium,aquarium
+"rockefeller center,st patricks cathedral","establishment,church"
+statue of liberty,establishment
+grand central terminal,transit_station
+"grand central terminal,empire state building,brooklyn bridge,st pauls chapel,herald square","transit_station,museum,establishment,church,town_square"
+new york aquarium,aquarium
+american museum of natural history,museum
+"bryant park,new york university,city hall,st patricks cathedral,union sq,mulberry st,metropolitan museum of art,rockefeller center,staten island ferry,radio city music hall,herald square","park,university,local_government_office,church,political,route,art_gallery,establishment,route,establishment,town_square"
+"madison sq park,chrysler building,st patricks cathedral,radio city music hall,empire state building","park,establishment,church,establishment,museum"
+"central park,new york university","park,university"
+museum of television and radio,museum
+staten island ferry,route
+111 front street,street_address
+"chelsea hotel,madison sq park,chrysler building,grand central terminal,st patricks cathedral,washington mews,rockefeller center,staten island ferry,radio city music hall,museum of television and radio,new york public library","lodging,park,establishment,transit_station,church,route,establishment,route,establishment,museum,library"
+"american museum of natural history,staten island ferry,empire state building","museum,route,museum"
+metropolitan museum of art,art_gallery
+"central park,chrysler building,grand central terminal,empire state building,brooklyn bridge","park,establishment,transit_station,museum,establishment"
+"grand central terminal,st patricks cathedral,rockefeller center,staten island ferry,radio city music hall,the dakota,solomon r guggenheim museum,wollman skating rink","transit_station,church,establishment,route,establishment,establishment,museum,establishment"
+"the dakota,staten island ferry,statue of liberty,empire state building","establishment,route,establishment,museum"
+"chelsea art museum,solomon r guggenheim museum,radio city music hall,wollman skating rink","art_gallery,museum,establishment,establishment"
+chrysler building,establishment
+new york university,university
+"new york aquarium,central park","aquarium,park"
+new york university,university
+new york aquarium,aquarium
+new york aquarium,aquarium
+new york university,university
+"new york transit museum,grand central terminal,new-york historical society,st patricks cathedral,mulberry st,metropolitan museum of art,grace church,yankee stadium,herald square","museum,transit_station,museum,church,route,art_gallery,church,stadium,town_square"
+chelsea art museum,art_gallery
+brooklyn bridge,establishment
+statue of liberty,establishment
+"central park,madison sq park,riverside church,rockefeller center,staten island ferry","park,park,church,establishment,route"
+st marks in the bowery,church
+"new york aquarium,new york university","aquarium,university"
+new york university,university
+"new york university,brooklyn bridge,moma","university,establishment,art_gallery"
+new york university,university
+"central park,brooklyn bridge","park,establishment"
+"new york university,tompkins square park,union sq,staten island ferry,wollman skating rink","university,park,political,route,establishment"
+central park,park
+"grand central terminal,chrysler building,union sq,radio city music hall,brooklyn bridge,drawing center","transit_station,establishment,political,establishment,establishment,museum"
+new york university,university
+new york university,university
+central park,park
+"new york university,new york aquarium,brooklyn bridge","university,aquarium,establishment"
+new york aquarium,aquarium
+"new york university,madison sq park,st patricks cathedral,union sq,chelsea art museum,rockefeller center,staten island ferry,empire state building,radio city music hall,herald square","university,park,church,political,art_gallery,establishment,route,museum,establishment,town_square"
+"bryant park,grand central terminal,chrysler building,st patricks cathedral,new york stock exchange,chelsea art museum,radio city music hall,solomon r guggenheim museum","park,transit_station,establishment,church,finance,art_gallery,establishment,museum"
+empire state building,museum
+"museum of sex,washington sq park,wollman skating rink","museum,park,establishment"
+new york university,university
+new york aquarium,aquarium
+new york aquarium,aquarium
+"federal hall,rockefeller center,st pauls chapel,111 front street","museum,establishment,church,street_address"
+"st marks in the bowery,bryant park","church,park"
+new york aquarium,aquarium
+new york university,university
+museum of modern art,museum
+"american museum of natural history,new york university","museum,university"
+new york fire museum,museum
+"staten island ferry,statue of liberty,empire state building","route,establishment,museum"
+rockefeller center,establishment
+rockefeller center,establishment
+"new york stock exchange,chrysler building,new york public library","finance,establishment,library"
+metropolitan museum of art,art_gallery
+new york aquarium,aquarium
+new york university,university
+central park,park
+new york university,university
+"united nations,new york university","establishment,university"
+"american museum of natural history,grace church,empire state building","museum,church,museum"
+new york university,university
+"new york university,new york aquarium,empire state building","university,aquarium,museum"
+columbus park,park
+staten island ferry,route
+statue of liberty,establishment
+new york university,university
+new york university,university
+"tenement museum,st patricks cathedral,south st seaport","museum,church,route"
+washington mews,route
+"new york stock exchange,federal hall,grand central terminal,st pauls chapel","finance,museum,transit_station,church"
+"bryant park,grand central terminal,mulberry st,bowling green,ground zero,metropolitan museum of art,chelsea art museum,rockefeller center,staten island ferry,empire state building,brooklyn bridge,federal hall,herald square","park,transit_station,route,park,establishment,art_gallery,art_gallery,establishment,route,museum,establishment,museum,town_square"
+new york aquarium,aquarium
+"union sq,battery park,rockefeller center,staten island ferry,statue of liberty,federal hall","political,park,establishment,route,establishment,museum"
+museum of television and radio,museum
+"new york stock exchange,radio city music hall,new york university","finance,establishment,university"
+new museum of contemporary art,museum
+"south st seaport,new york university","route,university"
+"new york aquarium,statue of liberty","aquarium,establishment"
+"chelsea hotel,solomon r guggenheim museum,madison sq park,chrysler building,grand central terminal,st patricks cathedral,metropolitan museum of art,empire state building,radio city music hall,cathedral of st john the divine,museum of television and radio","lodging,museum,park,establishment,transit_station,church,art_gallery,museum,establishment,church,museum"
+new york university,university
+"ellis island,ground zero","establishment,establishment"
+"new york university,brooklyn bridge","university,establishment"
+new york university,university
+"metropolitan museum of art,statue of liberty,st patricks cathedral,ellis island","art_gallery,establishment,church,establishment"
+"chrysler building,empire state building","establishment,museum"
+"rockefeller center,st patricks cathedral,brooklyn bridge","establishment,church,establishment"
+moma,art_gallery
+metropolitan museum of art,art_gallery
+"chelsea art museum,empire state building","art_gallery,museum"
+"lincoln center,grand central terminal,st patricks cathedral,bowling green,rockefeller center,statue of liberty,empire state building,united nations","establishment,transit_station,church,park,establishment,establishment,museum,establishment"
+"grace church,ground zero","church,establishment"
+new york aquarium,aquarium
+new york university,university
+brooklyn bridge,establishment
+"south st seaport,herald square","route,town_square"
+new york university,university
+"new york stock exchange,chrysler building,new york university","finance,establishment,university"
+new york university,university
+"battery park,grand central terminal,grace church,new york university","park,transit_station,church,university"
+new york university,university
+rockefeller center,establishment
+"grand central terminal,st patricks cathedral,staten island ferry,museum of sex,empire state building,museum of television and radio","transit_station,church,route,museum,museum,museum"
+"new york transit museum,new york aquarium,new york fire museum,statue of liberty,empire state building","museum,aquarium,museum,establishment,museum"
+"chrysler building,union sq","establishment,political"
+staten island ferry,route
+"ground zero,chinatown,battery park,empire state building,yankee stadium","establishment,neighborhood,park,museum,stadium"
+"ellis island,central park,new york university,metropolitan museum of art,statue of liberty","establishment,park,university,art_gallery,establishment"
+"federal hall,st pauls chapel","museum,church"
+"new york stock exchange,federal hall,central park,united nations","finance,museum,park,establishment"
+"new york aquarium,bryant park","aquarium,park"
+"washington mews,washington sq park","route,park"
+new york university,university
+new york university,university
+"chelsea hotel,new york aquarium","lodging,aquarium"
+"madison sq park,staten island ferry,bryant park","park,route,park"
+empire state building,museum
+cathedral of st john the divine,church
+new york university,university
+empire state building,museum
+new york aquarium,aquarium
+"chelsea hotel,grand central terminal,statue of liberty","lodging,transit_station,establishment"
+world trade center site,premise
+"chrysler building,grand central terminal,st patricks cathedral,ground zero,rockefeller center,staten island ferry,statue of liberty,empire state building,brooklyn bridge,st pauls chapel,museum of television and radio","establishment,transit_station,church,establishment,establishment,route,establishment,museum,establishment,church,museum"
+new york university,university
+wollman skating rink,establishment
+new york aquarium,aquarium
+new york university,university
+"chelsea hotel,central park","lodging,park"
+new york fire museum,museum
+new york university,university
+new york aquarium,aquarium
+new york university,university
+new york university,university
+"federal hall,statue of liberty,ground zero","museum,establishment,establishment"
+statue of liberty,establishment
+new york aquarium,aquarium
+"new york marble cemetery,st patricks cathedral,rockefeller center,merchants house museum,herald square","cemetery,church,establishment,museum,town_square"
+new york university,university
+new york aquarium,aquarium
+"metropolitan museum of art,new york university","art_gallery,university"
+"lincoln center,brooklyn bridge,riverside park","establishment,establishment,park"
+"union sq,staten island ferry,grace church,st pauls chapel,merchants house museum","political,route,church,church,museum"
+east river park,park
+new york university,university
+"st patricks cathedral,herald square","church,town_square"
+"st patricks old cathedral,solomon r guggenheim museum","church,museum"
+new york university,university
+"childrens museum of manhattan,grand central terminal,eldridge st synagogue,rockefeller center,radio city music hall,empire state building,washington sq park","museum,transit_station,museum,establishment,establishment,museum,park"
+st patricks cathedral,church
+"radio city music hall,childrens museum of manhattan","establishment,museum"
+new york university,university
+new york university,university
+"new york university,empire state building","university,museum"
+"rockefeller center,statue of liberty,washington sq park,riverside park","establishment,establishment,park,park"
+"american museum of natural history,radio city music hall","museum,establishment"
+"empire state building,brooklyn bridge","museum,establishment"
+"central park,new york university","park,university"
+"empire state building,bryant park","museum,park"
+empire state building,museum
+"metropolitan museum of art,grace church,new york university","art_gallery,church,university"
+st patricks cathedral,church
+"empire state building,brooklyn bridge","museum,establishment"
+"new york stock exchange,new york university","finance,university"
+"east river park,chinatown","park,neighborhood"
+"radio city music hall,south st seaport,brooklyn bridge","establishment,route,establishment"
+"world trade center site,brooklyn bridge","premise,establishment"
+new york university,university
+new york aquarium,aquarium
+metropolitan museum of art,art_gallery
+new york university,university
+st patricks cathedral,church
+"st patricks cathedral,bryant park","church,park"
+metropolitan museum of art,art_gallery
+new york aquarium,aquarium
+"chinatown,chrysler building,brooklyn bridge","neighborhood,establishment,establishment"
+new york university,university
+new york aquarium,aquarium
+new york aquarium,aquarium
+new-york historical society,museum
+rockefeller center,establishment
+madison sq park,park
+st pauls chapel,church
+"radio city music hall,rockefeller center,st patricks cathedral,mulberry st","establishment,establishment,church,route"
+new york university,university
+"st pauls chapel,bowling green","church,park"
+"grand central terminal,new york aquarium,new york university,ground zero","transit_station,aquarium,university,establishment"
+"new york university,new york fire museum","university,museum"
+new york aquarium,aquarium
+world trade center site,premise
+grand central terminal,transit_station
+central park,park
+new york university,university
+central park,park
+st pauls chapel,church
+new york marble cemetery,cemetery
+chrysler building,establishment
+"statue of liberty,empire state building","establishment,museum"
+central park,park
+yankee stadium,stadium
+new york university,university
+chelsea hotel,lodging
+"lincoln center,grand central terminal,st patricks cathedral,ground zero,rockefeller center,staten island ferry,radio city music hall,united nations,federal hall,washington sq park","establishment,transit_station,church,establishment,establishment,route,establishment,establishment,museum,park"
+brooklyn bridge,establishment
+"statue of liberty,radio city music hall","establishment,establishment"
+"chrysler building,ground zero","establishment,establishment"
+"grand central terminal,union sq,chelsea art museum,staten island ferry,statue of liberty,herald square","transit_station,political,art_gallery,route,establishment,town_square"
+new york university,university
+"american museum of natural history,bryant park,chelsea art museum,statue of liberty,empire state building,childrens museum of manhattan,cathedral of st john the divine,solomon r guggenheim museum","museum,park,art_gallery,establishment,museum,museum,church,museum"
+yankee stadium,stadium
+herald square,town_square
+"rockefeller center,wollman skating rink","establishment,establishment"
+"grace church,staten island ferry,herald square","church,route,town_square"
+new york university,university
+"american museum of natural history,st pauls chapel,dumbo","museum,church,neighborhood"
+statue of liberty,establishment
+"staten island ferry,ground zero","route,establishment"
+new york university,university
+ground zero,establishment
+new york university,university
+"bryant park,grand central terminal,st patricks cathedral,bowling green,metropolitan museum of art,battery park,rockefeller center,statue of liberty,brooklyn bridge,radio city music hall,federal hall,herald square","park,transit_station,church,park,art_gallery,park,establishment,establishment,establishment,establishment,museum,town_square"
+"new york aquarium,washington sq park","aquarium,park"
+new york university,university
+"federal hall,bowling green","museum,park"
+"empire state building,lincoln center,brooklyn bridge","museum,establishment,establishment"
+empire state building,museum
+lincoln center,establishment
+american museum of natural history,museum
+"tenement museum,bowling green,new york stock exchange,statue of liberty,st pauls chapel","museum,park,finance,establishment,church"
+brooklyn bridge,establishment
+empire state building,museum
+"radio city music hall,new york university","establishment,university"
+metropolitan museum of art,art_gallery
+new york university,university
+new york aquarium,aquarium
+"metropolitan museum of art,chelsea art museum","art_gallery,art_gallery"
+empire state building,museum
+empire state building,museum
+new york aquarium,aquarium
+"radio city music hall,bryant park","establishment,park"
+solomon r guggenheim museum,museum
+new york aquarium,aquarium
+new york university,university
+"new york aquarium,new york university","aquarium,university"
+"city hall,st patricks cathedral,rockefeller center,staten island ferry,washington sq park","local_government_office,church,establishment,route,park"
+new york university,university
+"st patricks cathedral,empire state building","church,museum"
+new york university,university
+"solomon r guggenheim museum,radio city music hall","museum,establishment"
+"rockefeller center,union sq","establishment,political"
+empire state building,museum
+radio city music hall,establishment
+new york aquarium,aquarium
+"statue of liberty,central park,brooklyn bridge","establishment,park,establishment"
+"staten island ferry,new york aquarium,new york fire museum","route,aquarium,museum"
+rockefeller center,establishment
+new york university,university
+"ellis island,bryant park,central park,madison sq park,studio museum,grand central terminal,st patricks cathedral,metropolitan museum of art,rockefeller center,staten island ferry,south st seaport,empire state building,brooklyn bridge,st pauls chapel","establishment,park,park,park,museum,transit_station,church,art_gallery,establishment,route,route,museum,establishment,church"
+new york university,university
+new york university,university
+brooklyn bridge,establishment
+new york aquarium,aquarium
+"south st seaport,brooklyn bridge","route,establishment"
+st patricks cathedral,church
+coney island boardwalk,route
+new york aquarium,aquarium
+"american museum of natural history,st patricks cathedral,metropolitan museum of art,chelsea art museum,radio city music hall,museum of television and radio","museum,church,art_gallery,art_gallery,establishment,museum"
+radio city music hall,establishment
+trinity church,church
+brooklyn bridge,establishment
+"metropolitan museum of art,rockefeller center","art_gallery,establishment"
+empire state building,museum
+wollman skating rink,establishment
+"washington sq park,abingdon sq","park,route"
+new york university,university
+central park,park
+"new york aquarium,brooklyn bridge","aquarium,establishment"
+"staten island ferry,statue of liberty,brooklyn bridge","route,establishment,establishment"
+"federal hall,bryant park","museum,park"
+new york aquarium,aquarium
+federal hall,museum
+st patricks cathedral,church
+"chrysler building,grand central terminal","establishment,transit_station"
+"rockefeller center,drawing center","establishment,museum"
+new york university,university
+american museum of natural history,museum
+empire state building,museum
+"staten island ferry,union sq,bryant park,wollman skating rink","route,political,park,establishment"
+empire state building,museum
+"city hall,lincoln center,battery park,the dakota,federal hall,national arts club,washington sq park,federal reserve bank,national museum of the american indian,new york stock exchange,rockefeller center,empire state building,wollman skating rink,american museum of natural history,madison sq park,grand central terminal,st patricks cathedral,bowling green,staten island ferry,radio city music hall,st pauls chapel,south st seaport,united nations,cathedral of st john the divine","local_government_office,establishment,park,establishment,museum,art_gallery,park,establishment,museum,finance,establishment,museum,establishment,museum,park,transit_station,church,park,route,establishment,church,route,establishment,church"
+new york public library,library
+"central park,moma","park,art_gallery"
+"herald square,empire state building,111 front street","town_square,museum,street_address"
+rockefeller center,establishment
+central park,park
+empire state building,museum
+empire state building,museum
+new york university,university
+grace church,church
+"staten island ferry,new york university","route,university"
+staten island ferry,route
+new york aquarium,aquarium
+"grand central terminal,st patricks cathedral,chelsea art museum,rockefeller center,radio city music hall,brooklyn bridge","transit_station,church,art_gallery,establishment,establishment,establishment"
+"ellis island,central park,st patricks cathedral,chinatown,statue of liberty,new york public library","establishment,park,church,neighborhood,establishment,library"
+new york university,university
+central park,park
+"coney island boardwalk,central park,staten island ferry","route,park,route"
+new york university,university
+"rockefeller center,grand central terminal,moma","establishment,transit_station,art_gallery"
+"city hall,chelsea art museum,new york university","local_government_office,art_gallery,university"
+new york university,university
+"rockefeller center,grand central terminal,empire state building","establishment,transit_station,museum"
+"whitney museum of american art,solomon r guggenheim museum","museum,museum"
+"new york university,new york stock exchange,chrysler building,empire state building","university,finance,establishment,museum"
+new york university,university
+new york university,university
+new york aquarium,aquarium
+new york aquarium,aquarium
+"chinatown,childrens museum of manhattan","neighborhood,museum"
+"american museum of natural history,lincoln center,grand central terminal,tenement museum,metropolitan museum of art,washington mews,flatiron building,washington sq park","museum,establishment,transit_station,museum,art_gallery,route,establishment,park"
+"new york university,empire state building","university,museum"
+"empire state building,radio city music hall,herald square,bryant park","museum,establishment,town_square,park"
+new york aquarium,aquarium
+new york university,university
+"eldridge st synagogue,central park,empire state building","museum,park,museum"
+"empire state building,battery park,grand central terminal,brooklyn bridge","museum,park,transit_station,establishment"
+childrens museum of manhattan,museum
+colonnade row,museum
+bryant park,park
+metropolitan museum of art,art_gallery
+"st patricks old cathedral,solomon r guggenheim museum","church,museum"
+empire state building,museum
+"american museum of natural history,new york aquarium,bryant park,grand central terminal,chelsea art museum,rockefeller center,brooklyn bridge,radio city music hall,federal hall","museum,aquarium,park,transit_station,art_gallery,establishment,establishment,establishment,museum"
+new york university,university
+"staten island ferry,grand central terminal,new york university","route,transit_station,university"
+new york university,university
+new york university,university
+new york aquarium,aquarium
+coney island boardwalk,route
+"solomon r guggenheim museum,new york university,grand central terminal,st patricks cathedral,rockefeller center,empire state building,brooklyn bridge,herald square,wollman skating rink","museum,university,transit_station,church,establishment,museum,establishment,town_square,establishment"
+moma,art_gallery
+"federal hall,national museum of the american indian,federal reserve bank,bowling green","museum,museum,establishment,park"
+empire state building,museum
+radio city music hall,establishment
+moma,art_gallery
+"empire state building,new museum of contemporary art,metropolitan museum of art,bryant park","museum,museum,art_gallery,park"
+new york university,university
+new york university,university
+"central park,new york public library","park,library"
+"rockefeller center,central park","establishment,park"
+"new york stock exchange,chinatown,brooklyn bridge","finance,neighborhood,establishment"
+new york university,university
+central park,park
+new york university,university
+"central park,chrysler building,statue of liberty,radio city music hall,empire state building","park,establishment,establishment,establishment,museum"
+"st patricks old cathedral,tompkins square park","church,park"
+"new york stock exchange,washington sq park","finance,park"
+chrysler building,establishment
+new york university,university
+"st patricks cathedral,south st seaport,empire state building,statue of liberty,federal hall,st pauls chapel","church,route,museum,establishment,museum,church"
+new york public library,library
+bryant park,park
+wollman skating rink,establishment
+new york aquarium,aquarium
+empire state building,museum
+"central park,brooklyn bridge","park,establishment"
+"grand central terminal,chrysler building,empire state building","transit_station,establishment,museum"
+new york aquarium,aquarium
+"ellis island,central park,grand central terminal,st patricks cathedral,metropolitan museum of art,statue of liberty,empire state building,brooklyn bridge,the dakota","establishment,park,transit_station,church,art_gallery,establishment,museum,establishment,establishment"
+"metropolitan museum of art,st patricks old cathedral,washington sq park","art_gallery,church,park"
+"columbus park,st patricks cathedral,mulberry st,ground zero,rockefeller center,staten island ferry,statue of liberty,empire state building,radio city music hall,flatiron building,st pauls chapel,herald square","park,church,route,establishment,establishment,route,establishment,museum,establishment,establishment,church,town_square"
+"american museum of natural history,new york aquarium,central park,bryant park,new york public library","museum,aquarium,park,park,library"
+new york aquarium,aquarium
+new york fire museum,museum
+"new york marble cemetery,ground zero","cemetery,establishment"
+"new york university,ground zero,statue of liberty,radio city music hall,cathedral of st john the divine","university,establishment,establishment,establishment,church"
+"new york aquarium,new york university,new york fire museum,united nations,new york public library","aquarium,university,museum,establishment,library"
+bryant park,park
+"united nations,chrysler building,new york university","establishment,establishment,university"
+madison sq park,park
+"radio city music hall,empire state building","establishment,museum"
+"metropolitan museum of art,rockefeller center,st marks in the bowery","art_gallery,establishment,church"
+"empire state building,radio city music hall,lincoln center,brooklyn bridge","museum,establishment,establishment,establishment"
+new york aquarium,aquarium
+"ellis island,st patricks cathedral,mulberry st,ground zero,metropolitan museum of art,statue of liberty,empire state building","establishment,church,route,establishment,art_gallery,establishment,museum"
+"metropolitan museum of art,american museum of natural history,chelsea art museum","art_gallery,museum,art_gallery"
+new york aquarium,aquarium
+new york aquarium,aquarium
+"staten island ferry,grand central terminal,statue of liberty,empire state building","route,transit_station,establishment,museum"
+new york aquarium,aquarium
+"new york aquarium,ellis island,central park,new york university,grand central terminal,st patricks cathedral,east river park,metropolitan museum of art,rockefeller center,statue of liberty,brooklyn bridge,empire state building,coney island boardwalk","aquarium,establishment,park,university,transit_station,church,park,art_gallery,establishment,establishment,establishment,museum,route"
+grand central terminal,transit_station
+statue of liberty,establishment
+"american museum of natural history,new york transit museum,central park,bryant park,chrysler building,staten island ferry,brooklyn bridge,empire state building,grace church,coney island boardwalk,museum of modern art,washington sq park","museum,museum,park,park,establishment,route,establishment,museum,church,route,museum,park"
+"staten island ferry,washington sq park,empire state building","route,park,museum"
+new york university,university
+"metropolitan museum of art,south st seaport","art_gallery,route"
+ground zero,establishment
+"metropolitan museum of art,empire state building","art_gallery,museum"
+staten island ferry,route
+"rockefeller center,central park","establishment,park"
+brooklyn bridge,establishment
+brooklyn bridge,establishment
+brooklyn bridge,establishment
+"new york stock exchange,grand central terminal,rockefeller center,mulberry st","finance,transit_station,establishment,route"
+"st patricks cathedral,herald square,radio city music hall","church,town_square,establishment"
+new york university,university
+"metropolitan museum of art,statue of liberty,new york university,empire state building","art_gallery,establishment,university,museum"
+new york university,university
+new york aquarium,aquarium
+brooklyn bridge,establishment
+new-york historical society,museum
+new york university,university
+new york university,university
+new york aquarium,aquarium
+new york university,university
+"bryant park,dumbo,union sq,rockefeller center,staten island ferry,statue of liberty,empire state building","park,neighborhood,political,establishment,route,establishment,museum"
+new york aquarium,aquarium
+"new york fire museum,ground zero,new york stock exchange,rockefeller center,brooklyn bridge,united nations,solomon r guggenheim museum","museum,establishment,finance,establishment,establishment,establishment,museum"
+new york university,university
+brooklyn bridge,establishment
+"new york aquarium,bryant park","aquarium,park"
+"new york aquarium,new york university","aquarium,university"
+new york university,university
+solomon r guggenheim museum,museum
+"metropolitan museum of art,new york university,new york public library","art_gallery,university,library"
+"columbus park,brooklyn bridge,ground zero","park,establishment,establishment"
+ellis island,establishment
+"grand central terminal,st patricks cathedral,empire state building","transit_station,church,museum"
+st patricks cathedral,church
+rockefeller center,establishment
+american museum of natural history,museum
+new york university,university
+chrysler building,establishment
+brooklyn bridge,establishment
+new york university,university
+new york university,university
+new york university,university
+grace church,church
+"grand central terminal,new york aquarium,empire state building","transit_station,aquarium,museum"
+bryant park,park
+"rockefeller center,statue of liberty,brooklyn bridge","establishment,establishment,establishment"
+bryant park,park
+studio museum,museum
+staten island ferry,route
+central park,park
+"central park,new york university","park,university"
+metropolitan museum of art,art_gallery
+empire state building,museum
+"lincoln center,grand central terminal,st patricks cathedral,union sq,metropolitan museum of art,washington mews,rockefeller center,grace church,washington sq park","establishment,transit_station,church,political,art_gallery,route,establishment,church,park"
+empire state building,museum
+new york university,university
+new york aquarium,aquarium
+chinatown,neighborhood
+"central park,moma","park,art_gallery"
+new york aquarium,aquarium
+empire state building,museum
+"new york university,ground zero","university,establishment"
+"madison sq park,rockefeller center,grand central terminal,brooklyn bridge","park,establishment,transit_station,establishment"
+ground zero,establishment
+"st pauls chapel,staten island ferry","church,route"
+"grace church,brooklyn bridge,new york public library","church,establishment,library"
+new york university,university
+radio city music hall,establishment
+new york aquarium,aquarium
+"new york university,bryant park,grand central terminal,battery park,rockefeller center,statue of liberty","university,park,transit_station,park,establishment,establishment"
+"new york aquarium,new york university","aquarium,university"
+new york university,university
+new york university,university
+new york aquarium,aquarium
+rockefeller center,establishment
+empire state building,museum
+"statue of liberty,herald square,empire state building","establishment,town_square,museum"
+"united nations,statue of liberty,brooklyn bridge","establishment,establishment,establishment"
+moma,art_gallery
+new york university,university
+metropolitan museum of art,art_gallery
+brooklyn bridge,establishment
+"rockefeller center,new york aquarium","establishment,aquarium"
+"madison sq park,new york marble cemetery,tenement museum","park,cemetery,museum"
+new york aquarium,aquarium
+new york university,university
+new york university,university
+"radio city music hall,empire state building","establishment,museum"
+"rockefeller center,grand central terminal,new york aquarium","establishment,transit_station,aquarium"
+"grand central terminal,museum of sex","transit_station,museum"
+new york university,university
+new york university,university
+"chrysler building,111 front street","establishment,street_address"
+new york public library,library
+"new york stock exchange,brooklyn bridge","finance,establishment"
+"chelsea hotel,moma,rockefeller center,brooklyn bridge,new york public library","lodging,art_gallery,establishment,establishment,library"
+moma,art_gallery
+new york university,university
+brooklyn bridge,establishment
+coney island boardwalk,route
+empire state building,museum
+"new york stock exchange,federal hall,statue of liberty","finance,museum,establishment"
+new york university,university
+new york university,university
+"bryant park,central park,brooklyn bridge","park,park,establishment"
+empire state building,museum
+"new york university,whitney museum of american art,lincoln center,chelsea art museum,solomon r guggenheim museum","university,museum,establishment,art_gallery,museum"
+"grand central terminal,museum of sex","transit_station,museum"
+new york university,university
+"grand central terminal,st patricks cathedral,metropolitan museum of art,rockefeller center,statue of liberty,empire state building,brooklyn bridge,washington sq park,wollman skating rink","transit_station,church,art_gallery,establishment,establishment,museum,establishment,park,establishment"
+new york aquarium,aquarium
+"american museum of natural history,madison sq park,grand central terminal,metropolitan museum of art,new york stock exchange,south st seaport,frick collection,federal hall,solomon r guggenheim museum","museum,park,transit_station,art_gallery,finance,route,museum,museum,museum"
+new york aquarium,aquarium
+new york aquarium,aquarium
+"american museum of natural history,ellis island,st patricks cathedral,metropolitan museum of art,chelsea art museum,statue of liberty,empire state building","museum,establishment,church,art_gallery,art_gallery,establishment,museum"
+chelsea hotel,lodging
+"central park,grand central terminal,metropolitan museum of art,rockefeller center,statue of liberty,new york public library","park,transit_station,art_gallery,establishment,establishment,library"
+metropolitan museum of art,art_gallery
+new york university,university
+brooklyn bridge,establishment
+"statue of liberty,staten island ferry,central park","establishment,route,park"
+empire state building,museum
+chelsea art museum,art_gallery
+new york university,university
+central park,park
+new york university,university
+"battery park,coney island boardwalk","park,route"
+"new york university,chinatown,washington sq park,brooklyn bridge","university,neighborhood,park,establishment"
+new york university,university
+brooklyn bridge,establishment
+staten island ferry,route
+new york university,university
+american museum of natural history,museum
+chrysler building,establishment
+new york university,university
+"grand central terminal,chrysler building,ground zero,rockefeller center,empire state building,radio city music hall,federal hall,st pauls chapel","transit_station,establishment,establishment,establishment,museum,establishment,museum,church"
+central park,park
+new york university,university
+new york aquarium,aquarium
+"chrysler building,grand central terminal,st patricks cathedral,ground zero,new york stock exchange,rockefeller center,statue of liberty","establishment,transit_station,church,establishment,finance,establishment,establishment"
+herald square,town_square
+"madison sq park,radio city music hall","park,establishment"
+new york aquarium,aquarium
+new york aquarium,aquarium
+yankee stadium,stadium
+new york university,university
+new york university,university
+new york university,university
+madison sq park,park
+new york public library,library
+"chinatown,south st seaport","neighborhood,route"
+"st marks in the bowery,city hall,eldridge st synagogue,washington mews,st pauls chapel","church,local_government_office,museum,route,church"
+new york aquarium,aquarium
+"metropolitan museum of art,museum of modern art","art_gallery,museum"
+chinatown,neighborhood
+chelsea hotel,lodging
+bryant park,park
+chrysler building,establishment
+"bryant park,dumbo,chrysler building,grand central terminal,st patricks cathedral,tenement museum,ground zero,metropolitan museum of art,battery park,rockefeller center,staten island ferry,statue of liberty,united nations,federal hall,yankee stadium,washington sq park","park,neighborhood,establishment,transit_station,church,museum,establishment,art_gallery,park,establishment,route,establishment,establishment,museum,stadium,park"
+new york university,university
+radio city music hall,establishment
+wollman skating rink,establishment
+bowling green,park
+washington sq park,park
+"new york aquarium,new york university","aquarium,university"
+"whitney museum of american art,american museum of natural history","museum,museum"
+new york university,university
+empire state building,museum
+new york aquarium,aquarium
+moma,art_gallery
+new york university,university
+brooklyn bridge,establishment
+"chinatown,brooklyn bridge,trinity church","neighborhood,establishment,church"
+"grand central terminal,rockefeller center,empire state building,radio city music hall,flatiron building,brooklyn bridge","transit_station,establishment,museum,establishment,establishment,establishment"
+"american museum of natural history,new york aquarium,bryant park,new york university,chrysler building,grand central terminal,st patricks cathedral,rockefeller center,empire state building,radio city music hall,museum of television and radio","museum,aquarium,park,university,establishment,transit_station,church,establishment,museum,establishment,museum"
+"washington mews,staten island ferry,mulberry st,empire state building","route,route,route,museum"
+"american museum of natural history,city hall,staten island ferry,south st seaport,brooklyn bridge,frick collection,st pauls chapel,museum of television and radio","museum,local_government_office,route,route,establishment,museum,church,museum"
+new york aquarium,aquarium
+new york aquarium,aquarium
+empire state building,museum
+chinatown,neighborhood
+"battery park,bowling green","park,park"
+"new york aquarium,new york university","aquarium,university"
+yankee stadium,stadium
+"new york university,bowling green","university,park"
+new york university,university
+rockefeller center,establishment
+new york aquarium,aquarium
+"new museum of contemporary art,tenement museum","museum,museum"
+new york transit museum,museum
+central park,park
+"washington sq park,brooklyn bridge","park,establishment"
+"statue of liberty,ellis island,new york university","establishment,establishment,university"
+"ellis island,national museum of the american indian,ground zero,bowling green,new york stock exchange,south st seaport,brooklyn bridge,statue of liberty,united nations,federal hall,st pauls chapel","establishment,museum,establishment,park,finance,route,establishment,establishment,establishment,museum,church"
+tenement museum,museum
+"world trade center site,new york university,st patricks cathedral,staten island ferry,south st seaport,radio city music hall,empire state building,new york public library","premise,university,church,route,route,establishment,museum,library"
+new york aquarium,aquarium
+solomon r guggenheim museum,museum
+new york aquarium,aquarium
+"empire state building,radio city music hall,solomon r guggenheim museum,brooklyn bridge","museum,establishment,museum,establishment"
+"ellis island,chrysler building,grand central terminal,sheridan square,st patricks cathedral,bowling green,metropolitan museum of art,rockefeller center,statue of liberty,empire state building,brooklyn bridge,washington sq park,solomon r guggenheim museum,new york public library","establishment,establishment,transit_station,route,church,park,art_gallery,establishment,establishment,museum,establishment,park,museum,library"
+new york aquarium,aquarium
+"staten island ferry,radio city music hall","route,establishment"
+new york university,university
+"staten island ferry,union sq,bryant park","route,political,park"
+radio city music hall,establishment
+statue of liberty,establishment
+chinatown,neighborhood
+new york fire museum,museum
+new york university,university
+"american museum of natural history,new york aquarium,union sq,111 front street,federal hall","museum,aquarium,political,street_address,museum"
+"museum of television and radio,bryant park,new museum of contemporary art,rockefeller center,washington sq park","museum,park,museum,establishment,park"
+"tompkins square park,south st seaport","park,route"
+new york aquarium,aquarium
+"american museum of natural history,madison sq park,st patricks cathedral,radio city music hall,empire state building,the dakota","museum,park,church,establishment,museum,establishment"
+new york aquarium,aquarium
+bryant park,park
+new york university,university
+central park,park
+new york university,university
+riverside park,park
+coney island boardwalk,route
+new york university,university
+pierpont morgan library,museum
+brooklyn bridge,establishment
+"central park,empire state building","park,museum"
+"empire state building,brooklyn bridge","museum,establishment"
+"federal hall,union sq","museum,political"
+"chinatown,grace church,brooklyn bridge","neighborhood,church,establishment"
+"ellis island,chinatown,rockefeller center,staten island ferry,statue of liberty,empire state building,united nations,federal hall","establishment,neighborhood,establishment,route,establishment,museum,establishment,museum"
+new york university,university
+new york aquarium,aquarium
+statue of liberty,establishment
+new york aquarium,aquarium
+new york fire museum,museum
+"coney island boardwalk,new york aquarium,new york transit museum,new york public library","route,aquarium,museum,library"
+washington sq park,park
+staten island ferry,route
+"grand central terminal,rockefeller center,radio city music hall,herald square,new york public library","transit_station,establishment,establishment,town_square,library"
+"new york aquarium,central park,bryant park,chrysler building,chelsea art museum,rockefeller center,statue of liberty,brooklyn bridge,flatiron building,solomon r guggenheim museum","aquarium,park,park,establishment,art_gallery,establishment,establishment,establishment,establishment,museum"
+tompkins square park,park
+"new york aquarium,new york university,battery park,rockefeller center,staten island ferry,empire state building,federal hall","aquarium,university,park,establishment,route,museum,museum"
+"yankee stadium,south st seaport,empire state building","stadium,route,museum"
+ground zero,establishment
+coney island boardwalk,route
+museum of the city of new york,museum
+chelsea art museum,art_gallery
+radio city music hall,establishment
+yankee stadium,stadium
+new york university,university
+"new york marble cemetery,new york aquarium","cemetery,aquarium"
+"cathedral of st john the divine,central park,brooklyn bridge","church,park,establishment"
+st patricks old cathedral,church
+rockefeller center,establishment
+"new york aquarium,new york university","aquarium,university"
+new york university,university
+new york aquarium,aquarium
+"chrysler building,brooklyn bridge","establishment,establishment"
+central park,park
+new york aquarium,aquarium
+"new york university,radio city music hall,statue of liberty,empire state building","university,establishment,establishment,museum"
+united nations,establishment
+"new york aquarium,statue of liberty","aquarium,establishment"
+"city hall,madison sq park,brooklyn bridge","local_government_office,park,establishment"
+"central park,brooklyn bridge","park,establishment"
+american museum of natural history,museum
+new york university,university
+new york public library,library
+"central park,staten island ferry,empire state building,washington sq park,united nations,solomon r guggenheim museum","park,route,museum,park,establishment,museum"
+chelsea hotel,lodging
+new york university,university
+"new york stock exchange,rockefeller center,statue of liberty,brooklyn bridge,moma","finance,establishment,establishment,establishment,art_gallery"
+"new york university,trinity church,chinatown,rockefeller center,staten island ferry,empire state building,brooklyn bridge,coney island boardwalk,moma","university,church,neighborhood,establishment,route,museum,establishment,route,art_gallery"
+new york aquarium,aquarium
+empire state building,museum
+"tompkins square park,lincoln center,metropolitan museum of art,riverside church,studio museum","park,establishment,art_gallery,church,museum"
+chrysler building,establishment
+brooklyn bridge,establishment
+new york aquarium,aquarium
+"chelsea hotel,central park,city hall,rockefeller center,washington sq park","lodging,park,local_government_office,establishment,park"
+american museum of natural history,museum
+"federal hall,ground zero","museum,establishment"
+new york university,university
+empire state building,museum
+moma,art_gallery
+"city hall,sheridan square","local_government_office,route"
+"grand central terminal,st patricks cathedral,statue of liberty","transit_station,church,establishment"
+new york university,university
+"new york university,dumbo,brooklyn bridge","university,neighborhood,establishment"
+new york aquarium,aquarium
+new york aquarium,aquarium
+new york university,university
+central park,park
+"battery park,central park,brooklyn bridge","park,park,establishment"
+"tompkins square park,empire state building","park,museum"
+new york aquarium,aquarium
+new york aquarium,aquarium
+empire state building,museum
+new york university,university
+"new york stock exchange,federal hall,grand central terminal,ground zero","finance,museum,transit_station,establishment"
+chelsea hotel,lodging
+"new york aquarium,empire state building","aquarium,museum"
+herald square,town_square
+moma,art_gallery
+museum of modern art,museum
+east river park,park
+empire state building,museum
+"madison sq park,new museum of contemporary art,union sq","park,museum,political"
+madison sq park,park
+brooklyn bridge,establishment
+empire state building,museum
+new york university,university
+"new york transit museum,new york fire museum","museum,museum"
+moma,art_gallery
+brooklyn bridge,establishment
+new york university,university
+new york university,university
+new york university,university
+new york university,university
+new york aquarium,aquarium
+new york university,university
+brooklyn bridge,establishment
+"grand central terminal,chrysler building,trinity church,brooklyn bridge,united nations","transit_station,establishment,church,establishment,establishment"
+"madison sq park,st pauls chapel","park,church"
+"statue of liberty,brooklyn bridge,new york fire museum","establishment,establishment,museum"
+central park,park
+"staten island ferry,grand central terminal,statue of liberty,empire state building","route,transit_station,establishment,museum"
+bryant park,park
+new york aquarium,aquarium
+"grand central terminal,st patricks cathedral,chelsea art museum,rockefeller center,the dakota,herald square","transit_station,church,art_gallery,establishment,establishment,town_square"
+flatiron building,establishment
+new york university,university
+empire state building,museum
+new york university,university
+new york university,university
+grand central terminal,transit_station
+chelsea hotel,lodging
+"madison sq park,rockefeller center,empire state building","park,establishment,museum"
+"st patricks cathedral,brooklyn bridge","church,establishment"
+"rockefeller center,statue of liberty","establishment,establishment"
+empire state building,museum
+ground zero,establishment
+union sq,political
+statue of liberty,establishment
+"new york aquarium,new york fire museum,riverside park,chinatown,brooklyn bridge,solomon r guggenheim museum","aquarium,museum,park,neighborhood,establishment,museum"
+new york aquarium,aquarium
+rockefeller center,establishment
+"rockefeller center,empire state building","establishment,museum"
+central park,park
+new york university,university
+"new york university,bryant park,grand central terminal,neue galerie,solomon r guggenheim museum","university,park,transit_station,museum,museum"
+new york aquarium,aquarium
+"rockefeller center,grand central terminal,trinity church","establishment,transit_station,church"
+new york aquarium,aquarium
+new york university,university
+new york university,university
+"new york aquarium,new york public library","aquarium,library"
+"central park,st patricks cathedral,staten island ferry,rockefeller center,empire state building","park,church,route,establishment,museum"
+"statue of liberty,radio city music hall","establishment,establishment"
+"city hall,new york aquarium,empire state building","local_government_office,aquarium,museum"
+"bryant park,city hall,madison sq park,lincoln center,chrysler building,grand central terminal,sheridan square,st patricks cathedral,union sq,metropolitan museum of art,chelsea art museum,staten island ferry,colonnade row,empire state building,radio city music hall,washington sq park,united nations,st pauls chapel,merchants house museum,solomon r guggenheim museum","park,local_government_office,park,establishment,establishment,transit_station,route,church,political,art_gallery,art_gallery,route,museum,museum,establishment,park,establishment,church,museum,museum"
+prospect park,park
+new york aquarium,aquarium
+"new york university,new york fire museum","university,museum"
+"prospect park,brooklyn bridge","park,establishment"
+"chelsea hotel,central park,metropolitan museum of art,empire state building,cathedral of st john the divine,new york public library","lodging,park,art_gallery,museum,church,library"
+brooklyn bridge,establishment
+new york university,university
+"madison sq park,museum of sex,empire state building","park,museum,museum"
+"flatiron building,sheridan square,washington sq park","establishment,route,park"
+new york university,university
+"chelsea hotel,coney island boardwalk,st patricks cathedral","lodging,route,church"
+"central park,bowling green","park,park"
+new york aquarium,aquarium
+madison sq park,park
+"new york aquarium,central park","aquarium,park"
+statue of liberty,establishment
+"american museum of natural history,madison sq park,st patricks cathedral,museum of sex,empire state building","museum,park,church,museum,museum"
+"st pauls chapel,brooklyn bridge","church,establishment"
+"world trade center site,grand central terminal,empire state building","premise,transit_station,museum"
+"new york aquarium,new york university","aquarium,university"
+new york university,university
+"rockefeller center,empire state building","establishment,museum"
+empire state building,museum
+new york university,university
+new york aquarium,aquarium
+radio city music hall,establishment
+brooklyn bridge,establishment
+new york university,university
+"flatiron building,brooklyn bridge","establishment,establishment"
+"new york aquarium,statue of liberty,new york university","aquarium,establishment,university"
+"national museum of the american indian,new york stock exchange,staten island ferry,statue of liberty,radio city music hall,empire state building,wollman skating rink","museum,finance,route,establishment,establishment,museum,establishment"
+new york university,university
+new york university,university
+herald square,town_square
+brooklyn bridge,establishment
+new york university,university
+"bryant park,grand central terminal,st patricks cathedral,staten island ferry,empire state building,brooklyn bridge,st pauls chapel","park,transit_station,church,route,museum,establishment,church"
+"chinatown,chrysler building,new york university","neighborhood,establishment,university"
+new york university,university
+"grand central terminal,new york university","transit_station,university"
+chinatown,neighborhood
+"statue of liberty,ellis island","establishment,establishment"
+"new york university,central park,brooklyn bridge","university,park,establishment"
+empire state building,museum
+"ellis island,madison sq park,chelsea art museum,statue of liberty,empire state building,brooklyn bridge,united nations,federal hall,yankee stadium","establishment,park,art_gallery,establishment,museum,establishment,establishment,museum,stadium"
+empire state building,museum
+"empire state building,bryant park","museum,park"
+new york university,university
+new york university,university
+metropolitan museum of art,art_gallery
+"metropolitan museum of art,new york university","art_gallery,university"
+"union sq,national arts club,st patricks cathedral,south st seaport","political,art_gallery,church,route"
+statue of liberty,establishment
+"grand central terminal,st patricks cathedral,staten island ferry,rockefeller center,radio city music hall","transit_station,church,route,establishment,establishment"
+chrysler building,establishment
+"rockefeller center,st patricks cathedral","establishment,church"
+empire state building,museum
+new york university,university
+"metropolitan museum of art,new york aquarium,new york university,new york public library","art_gallery,aquarium,university,library"
+new york university,university
+"american museum of natural history,ellis island,chrysler building,grand central terminal,chelsea art museum,statue of liberty,empire state building,st pauls chapel","museum,establishment,establishment,transit_station,art_gallery,establishment,museum,church"
+"staten island ferry,statue of liberty,empire state building","route,establishment,museum"
+chinatown,neighborhood
+"new york aquarium,new york university","aquarium,university"
+"new york aquarium,brooklyn bridge","aquarium,establishment"
+st patricks cathedral,church
+yankee stadium,stadium
+"empire state building,american museum of natural history,brooklyn bridge","museum,museum,establishment"
+new york aquarium,aquarium
+staten island ferry,route
+"central park,brooklyn bridge","park,establishment"
+"st patricks cathedral,union sq,mulberry st,ground zero","church,political,route,establishment"
+new york university,university
+new york aquarium,aquarium
+new york university,university
+new york aquarium,aquarium
+"staten island ferry,union sq,ellis island,ground zero","route,political,establishment,establishment"
+"madison sq park,tompkins square park,chrysler building,battery park,rockefeller center,empire state building,radio city music hall,herald square","park,park,establishment,park,establishment,museum,establishment,town_square"
+central park,park
+new york university,university
+new york university,university
+statue of liberty,establishment
+new york aquarium,aquarium
+new york aquarium,aquarium
+moma,art_gallery
+new york university,university
+empire state building,museum
+"staten island ferry,radio city music hall","route,establishment"
+new york university,university
+"statue of liberty,staten island ferry,south st seaport,empire state building","establishment,route,route,museum"
+"american museum of natural history,empire state building","museum,museum"
+city hall,local_government_office
+rockefeller center,establishment
+"radio city music hall,washington sq park,empire state building,ground zero","establishment,park,museum,establishment"
+empire state building,museum
+new york aquarium,aquarium
+"city hall,grand central terminal,staten island ferry","local_government_office,transit_station,route"
+brooklyn bridge,establishment
+moma,art_gallery
+new york public library,library
+"grand central terminal,radio city music hall","transit_station,establishment"
+brooklyn bridge,establishment
+radio city music hall,establishment
+new york university,university
+"grand central terminal,national museum of the american indian,ground zero,rockefeller center,empire state building","transit_station,museum,establishment,establishment,museum"
+statue of liberty,establishment
+new york university,university
+"radio city music hall,central park,empire state building","establishment,park,museum"
+"staten island ferry,st patricks cathedral","route,church"
+empire state building,museum
+"madison sq park,new york aquarium,brooklyn bridge","park,aquarium,establishment"
+metropolitan museum of art,art_gallery
+"radio city music hall,brooklyn bridge","establishment,establishment"
+central park,park
+"grace church,eldridge st synagogue,merchants house museum","church,museum,museum"
+moma,art_gallery
+empire state building,museum
+radio city music hall,establishment
+"new york aquarium,new museum of contemporary art","aquarium,museum"
+"madison sq park,chrysler building,washington sq park","park,establishment,park"
+central park,park
+"empire state building,brooklyn bridge","museum,establishment"
+empire state building,museum
+new york university,university
+"grand central terminal,staten island ferry,rockefeller center,empire state building,herald square","transit_station,route,establishment,museum,town_square"
+ellis island,establishment
+statue of liberty,establishment
+new york university,university
+herald square,town_square
+"cathedral of st john the divine,empire state building","church,museum"
+"bryant park,city hall,madison sq park,st patricks cathedral,rockefeller center","park,local_government_office,park,church,establishment"
+new york aquarium,aquarium
+"american museum of natural history,ellis island,new york university,rockefeller center,st pauls chapel,new york public library","museum,establishment,university,establishment,church,library"
+new york stock exchange,finance
+"new york aquarium,new york university","aquarium,university"
+new york university,university
+grand central terminal,transit_station
+new york university,university
+madison sq park,park
+grace church,church
+gallery 128,art_gallery
+"new york aquarium,new york university,new york fire museum","aquarium,university,museum"
+new york university,university
+"south st seaport,solomon r guggenheim museum,museum of television and radio,bryant park","route,museum,museum,park"
+new york university,university
+metropolitan museum of art,art_gallery
+radio city music hall,establishment
+bryant park,park
+"new york aquarium,moma","aquarium,art_gallery"
+washington sq park,park
+rockefeller center,establishment
+grace church,church
+central park,park
+"solomon r guggenheim museum,madison sq park,studio museum,grand central terminal,empire state building,brooklyn bridge,cathedral of st john the divine,herald square","museum,park,museum,transit_station,museum,establishment,church,town_square"
+new york public library,library
+trinity church,church
+"madison sq park,new-york historical society,union sq","park,museum,political"
+new york university,university
+"empire state building,brooklyn bridge","museum,establishment"
+bowling green,park
+city hall,local_government_office
+rockefeller center,establishment
+"new york aquarium,statue of liberty,new york university","aquarium,establishment,university"
+"the dakota,st patricks cathedral,statue of liberty,empire state building","establishment,church,establishment,museum"
+empire state building,museum
+"madison sq park,grand central terminal,national museum of the american indian,chelsea art museum,statue of liberty,radio city music hall","park,transit_station,museum,art_gallery,establishment,establishment"
+new york aquarium,aquarium
+"new york university,new york aquarium,brooklyn bridge,new york fire museum","university,aquarium,establishment,museum"
+"sheridan square,bowling green,chelsea art museum,rockefeller center,staten island ferry,statue of liberty,merchants house museum,washington sq park","route,park,art_gallery,establishment,route,establishment,museum,park"
+"herald square,empire state building","town_square,museum"
+"madison sq park,cathedral of st john the divine","park,church"
+brooklyn bridge,establishment
+"new york university,moma","university,art_gallery"
+new york aquarium,aquarium
+ellis island,establishment
+moma,art_gallery
+"new york university,empire state building","university,museum"
+yankee stadium,stadium
+central park,park
+new york university,university
+new york university,university
+"new york university,national museum of the american indian,empire state building,bowling green","university,museum,museum,park"
+national museum of the american indian,museum
+"american museum of natural history,chelsea art museum","museum,art_gallery"
+new york university,university
+"madison sq park,new york aquarium","park,aquarium"
+ground zero,establishment
+"statue of liberty,riverside park","establishment,park"
+"city hall,rockefeller center,central park","local_government_office,establishment,park"
+new york aquarium,aquarium
+washington mews,route
+american museum of natural history,museum
+new york university,university
+new york university,university
+new york university,university
+moma,art_gallery
+new york aquarium,aquarium
+"rockefeller center,st patricks cathedral,radio city music hall","establishment,church,establishment"
+new york aquarium,aquarium
+"new york university,empire state building,new york public library","university,museum,library"
+dumbo,neighborhood
+brooklyn bridge,establishment
+empire state building,museum
+"staten island ferry,new york university","route,university"
+new york aquarium,aquarium
+new york aquarium,aquarium
+"central park,city hall,lincoln center,grand central terminal,rockefeller center","park,local_government_office,establishment,transit_station,establishment"
+new york university,university
+new york university,university
+new york stock exchange,finance
+new york university,university
+new york aquarium,aquarium
+american museum of natural history,museum
+"flatiron building,cathedral of st john the divine","establishment,church"
+new york university,university
+central park,park
+"ellis island,new york university,chrysler building,grand central terminal,st patricks cathedral,new york stock exchange,battery park,chelsea art museum,statue of liberty,empire state building,federal hall,st pauls chapel,solomon r guggenheim museum","establishment,university,establishment,transit_station,church,finance,park,art_gallery,establishment,museum,museum,church,museum"
+"rockefeller center,brooklyn bridge","establishment,establishment"
+"metropolitan museum of art,rockefeller center,central park,new york university","art_gallery,establishment,park,university"
+new york aquarium,aquarium
+"madison sq park,world trade center site,new york aquarium","park,premise,aquarium"
+brooklyn bridge,establishment
+new york aquarium,aquarium
+"museum of sex,statue of liberty","museum,establishment"
+brooklyn bridge,establishment
+staten island ferry,route
+brooklyn bridge,establishment
+new york aquarium,aquarium
+new york university,university
+brooklyn bridge,establishment
+new york aquarium,aquarium
+"radio city music hall,solomon r guggenheim museum,empire state building","establishment,museum,museum"
+new york university,university
+new york university,university
+"empire state building,brooklyn bridge","museum,establishment"
+new york aquarium,aquarium
+radio city music hall,establishment
+new york aquarium,aquarium
+new york university,university
+new york university,university
+"empire state building,wollman skating rink","museum,establishment"
+new york marble cemetery,cemetery
+new york university,university
+"grand central terminal,union sq,rockefeller center,empire state building,brooklyn bridge,the dakota,federal hall,herald square","transit_station,political,establishment,museum,establishment,establishment,museum,town_square"
+columbus park,park
+"grand central terminal,statue of liberty,radio city music hall,empire state building,federal hall,museum of television and radio","transit_station,establishment,establishment,museum,museum,museum"
+"chinatown,brooklyn bridge","neighborhood,establishment"
+rockefeller center,establishment
+"hudson river park,central park,bryant park,city hall,madison sq park,new york fire museum,new york marble cemetery,metropolitan museum of art,flatiron building","park,park,park,local_government_office,park,museum,cemetery,art_gallery,establishment"
+new york university,university
+"washington mews,new york university","route,university"
+new york university,university
+american museum of natural history,museum
+"south st seaport,brooklyn bridge","route,establishment"
+new york aquarium,aquarium
+"metropolitan museum of art,chelsea art museum,rockefeller center,herald square","art_gallery,art_gallery,establishment,town_square"
+"st patricks old cathedral,american museum of natural history,solomon r guggenheim museum","church,museum,museum"
+brooklyn bridge,establishment
+new york university,university
+"madison sq park,american museum of natural history,washington mews,metropolitan museum of art","park,museum,route,art_gallery"
+"chrysler building,st patricks cathedral,ground zero,bowling green,metropolitan museum of art,rockefeller center,statue of liberty,empire state building,radio city music hall,federal hall,st pauls chapel,washington sq park","establishment,church,establishment,park,art_gallery,establishment,establishment,museum,establishment,museum,church,park"
+madison sq park,park
+"chrysler building,brooklyn bridge","establishment,establishment"
+new york university,university
+"new york aquarium,ellis island,central park,new york university,metropolitan museum of art,statue of liberty,empire state building","aquarium,establishment,park,university,art_gallery,establishment,museum"
+new york fire museum,museum
+dumbo,neighborhood
+new york aquarium,aquarium
+new york university,university
+brooklyn bridge,establishment
+empire state building,museum
+brooklyn bridge,establishment
+brooklyn bridge,establishment
+"new york stock exchange,new york aquarium,new york university","finance,aquarium,university"
+chelsea art museum,art_gallery
+st pauls chapel,church
+american museum of natural history,museum
+american museum of natural history,museum
+"new york aquarium,new york university","aquarium,university"
+chrysler building,establishment
+"american museum of natural history,ellis island,central park,new-york historical society,rockefeller center,staten island ferry,statue of liberty,radio city music hall,the dakota,new york public library","museum,establishment,park,museum,establishment,route,establishment,establishment,establishment,library"
+"new york stock exchange,new york aquarium","finance,aquarium"
+grand central terminal,transit_station
+brooklyn bridge,establishment
+"dumbo,brooklyn bridge","neighborhood,establishment"
+new york university,university
+new york university,university
+american museum of natural history,museum
+"rockefeller center,new york aquarium","establishment,aquarium"
+"st pauls chapel,chrysler building,empire state building","church,establishment,museum"
+new york fire museum,museum
+new york university,university
+bryant park,park
+"chelsea hotel,central park","lodging,park"
+"flatiron building,chelsea art museum,madison sq park,lincoln center","establishment,art_gallery,park,establishment"
+central park,park
+rockefeller center,establishment
+"washington mews,new museum of contemporary art,empire state building","route,museum,museum"
+"new york transit museum,museum of modern art","museum,museum"
+new york aquarium,aquarium
+chinatown,neighborhood
+metropolitan museum of art,art_gallery
+bryant park,park
+"grand central terminal,bryant park","transit_station,park"
+"new york university,metropolitan museum of art,chinatown,empire state building,brooklyn bridge,museum of modern art","university,art_gallery,neighborhood,museum,establishment,museum"
+"madison sq park,chelsea art museum,grand central terminal","park,art_gallery,transit_station"
+new york university,university
+wildlife center,establishment
+brooklyn bridge,establishment
+new york public library,library
+flatiron building,establishment
+"american museum of natural history,brooklyn bridge","museum,establishment"
+"staten island ferry,empire state building","route,museum"
+"chelsea art museum,st pauls chapel,museum of television and radio","art_gallery,church,museum"
+"metropolitan museum of art,american museum of natural history,staten island ferry,empire state building","art_gallery,museum,route,museum"
+new york aquarium,aquarium
+chelsea art museum,art_gallery
+"coney island boardwalk,union sq,washington sq park","route,political,park"
+"chinatown,new york aquarium,empire state building,new york public library","neighborhood,aquarium,museum,library"
+"american museum of natural history,madison sq park,st patricks cathedral,rockefeller center,radio city music hall","museum,park,church,establishment,establishment"
+empire state building,museum
+new york aquarium,aquarium
+"rockefeller center,new york university","establishment,university"
+"empire state building,radio city music hall,statue of liberty,brooklyn bridge","museum,establishment,establishment,establishment"
+american museum of natural history,museum
+new york university,university
+new york university,university
+"new york university,new york stock exchange,staten island ferry,empire state building,museum of television and radio","university,finance,route,museum,museum"
+"eldridge st synagogue,new york stock exchange,chinatown,brooklyn bridge,radio city music hall,gallery 128","museum,finance,neighborhood,establishment,establishment,art_gallery"
+new york aquarium,aquarium
+new york public library,library
+new york aquarium,aquarium
+new york aquarium,aquarium
+new york aquarium,aquarium
+"new york aquarium,new york university","aquarium,university"
+"solomon r guggenheim museum,bryant park,madison sq park,chrysler building,empire state building,herald square","museum,park,park,establishment,museum,town_square"
+new york transit museum,museum
+new york university,university
+"rockefeller center,chrysler building,empire state building","establishment,establishment,museum"
+herald square,town_square
+"chelsea art museum,rockefeller center,pierpont morgan library","art_gallery,establishment,museum"
+central park,park
+new york university,university
+empire state building,museum
+new york university,university
+radio city music hall,establishment
+central park,park
+moma,art_gallery
+"radio city music hall,staten island ferry,empire state building","establishment,route,museum"
+new york aquarium,aquarium
+"new york marble cemetery,st patricks cathedral,mulberry st,staten island ferry,brooklyn bridge","cemetery,church,route,route,establishment"
+"american museum of natural history,city hall,lincoln center,grand central terminal,eldridge st synagogue,st patricks cathedral,bowling green,new york stock exchange,staten island ferry,statue of liberty,empire state building,radio city music hall,the dakota,federal hall,st pauls chapel,wollman skating rink","museum,local_government_office,establishment,transit_station,museum,church,park,finance,route,establishment,museum,establishment,establishment,museum,church,establishment"
+brooklyn bridge,establishment
+"flatiron building,st patricks cathedral,brooklyn bridge","establishment,church,establishment"
+new york aquarium,aquarium
+"cathedral of st john the divine,st patricks cathedral,bryant park","church,church,park"
+"rockefeller center,central park,new york fire museum","establishment,park,museum"
+new york university,university
+grand central terminal,transit_station
+st pauls chapel,church
+new york university,university
+"bridgemarket,new york aquarium,empire state building,new york fire museum","grocery_or_supermarket,aquarium,museum,museum"
+"city hall,museum at fit,ground zero,metropolitan museum of art,empire state building,national arts club,solomon r guggenheim museum","local_government_office,museum,establishment,art_gallery,museum,art_gallery,museum"
+"st patricks cathedral,ground zero,battery park,staten island ferry,empire state building","church,establishment,park,route,museum"
+"lincoln center,empire state building","establishment,museum"
+new york aquarium,aquarium
+"st patricks cathedral,union sq,staten island ferry,radio city music hall,washington sq park","church,political,route,establishment,park"
+new york university,university
+new york university,university
+brooklyn bridge,establishment
+"chinatown,staten island ferry,radio city music hall","neighborhood,route,establishment"
+rockefeller center,establishment
+"new york university,new york public library","university,library"
+new york public library,library
+"american museum of natural history,empire state building,moma","museum,museum,art_gallery"
+"new york aquarium,brooklyn bridge","aquarium,establishment"
+new york aquarium,aquarium
+new york marble cemetery,cemetery
+chrysler building,establishment
+"rockefeller center,chrysler building,new york aquarium","establishment,establishment,aquarium"
+new york fire museum,museum
+"dumbo,rockefeller center,st patricks cathedral,empire state building","neighborhood,establishment,church,museum"
+new york university,university
+central park,park
+metropolitan museum of art,art_gallery
+"rockefeller center,new york aquarium,empire state building","establishment,aquarium,museum"
+coney island boardwalk,route
+rockefeller center,establishment
+"statue of liberty,united nations,ellis island,empire state building","establishment,establishment,establishment,museum"
+mulberry st,route
+"st pauls chapel,st patricks cathedral,statue of liberty,new york university","church,church,establishment,university"
+"radio city music hall,new york public library","establishment,library"
+staten island ferry,route
+new york public library,library
+new york aquarium,aquarium
+herald square,town_square
+"staten island ferry,solomon r guggenheim museum,empire state building,ground zero","route,museum,museum,establishment"
+statue of liberty,establishment
+new york aquarium,aquarium
+new york university,university
+"rockefeller center,st patricks cathedral,radio city music hall","establishment,church,establishment"
+"empire state building,madison sq park,brooklyn bridge,national arts club","museum,park,establishment,art_gallery"
+new york aquarium,aquarium
+new york university,university
+"new york university,empire state building,new york public library","university,museum,library"
+"chelsea hotel,lincoln center,riverside church,chelsea art museum,studio museum,museum of television and radio","lodging,establishment,church,art_gallery,museum,museum"
+museum of television and radio,museum
+"empire state building,brooklyn bridge","museum,establishment"
+new york aquarium,aquarium
+"new museum of contemporary art,st patricks cathedral,chelsea art museum,brooklyn bridge,cathedral of st john the divine","museum,church,art_gallery,establishment,church"
+rockefeller center,establishment
+"empire state building,chrysler building,brooklyn bridge","museum,establishment,establishment"
+american museum of natural history,museum
+new york university,university
+new york university,university
+"chelsea art museum,central park,empire state building,moma","art_gallery,park,museum,art_gallery"
+"city hall,st pauls chapel,museum of sex","local_government_office,church,museum"
+"new york university,national museum of the american indian,union sq,washington mews,brooklyn bridge,washington sq park,wollman skating rink","university,museum,political,route,establishment,park,establishment"
+empire state building,museum
+"statue of liberty,yankee stadium,ellis island","establishment,stadium,establishment"
+"new york aquarium,new york university,chinatown,rockefeller center,empire state building","aquarium,university,neighborhood,establishment,museum"
+new york aquarium,aquarium
+brooklyn bridge,establishment
+new york aquarium,aquarium
+new york aquarium,aquarium
+brooklyn bridge,establishment
+statue of liberty,establishment
+museum of television and radio,museum
+new york university,university
+new york aquarium,aquarium
+"bryant park,grand central terminal,union sq,chelsea art museum,rockefeller center,radio city music hall,brooklyn bridge","park,transit_station,political,art_gallery,establishment,establishment,establishment"
+"american museum of natural history,new york aquarium,new york university,childrens museum of manhattan","museum,aquarium,university,museum"
+new york university,university
+new york aquarium,aquarium
+"empire state building,radio city music hall,bryant park","museum,establishment,park"
+"grand central terminal,st patricks cathedral,union sq,empire state building","transit_station,church,political,museum"
+moma,art_gallery
+new york aquarium,aquarium
+new york aquarium,aquarium
+"riverside church,statue of liberty,brooklyn bridge,111 front street","church,establishment,establishment,street_address"
+central park,park
+"central park,bryant park,union sq,rockefeller center,south st seaport","park,park,political,establishment,route"
+"washington sq park,mulberry st,bryant park","park,route,park"
+"chrysler building,new york aquarium,empire state building","establishment,aquarium,museum"
+"statue of liberty,bryant park","establishment,park"
+new york aquarium,aquarium
+world trade center site,premise
+"museum of television and radio,solomon r guggenheim museum,new york aquarium,central park,madison sq park,lincoln center,grand central terminal,st patricks cathedral,museum at fit,bowling green,neue galerie,new york stock exchange,chinatown,rockefeller center,staten island ferry,statue of liberty,empire state building,brooklyn bridge,united nations,herald square","museum,museum,aquarium,park,park,establishment,transit_station,church,museum,park,museum,finance,neighborhood,establishment,route,establishment,museum,establishment,establishment,town_square"
+new york university,university
+new york aquarium,aquarium
+american museum of natural history,museum
+rockefeller center,establishment
+new york aquarium,aquarium
+radio city music hall,establishment
+"world trade center site,new york university,metropolitan museum of art,rockefeller center,empire state building","premise,university,art_gallery,establishment,museum"
+central park,park
+"united nations,rockefeller center","establishment,establishment"
+new york university,university
+new york aquarium,aquarium
+new york marble cemetery,cemetery
+new york university,university
+new york university,university
+central park,park
+"central park,ground zero,metropolitan museum of art,rockefeller center,brooklyn bridge","park,establishment,art_gallery,establishment,establishment"
+new york aquarium,aquarium
+washington sq park,park
+"chrysler building,staten island ferry,statue of liberty,federal hall,st pauls chapel","establishment,route,establishment,museum,church"
+"new york university,rockefeller center,new york aquarium,empire state building","university,establishment,aquarium,museum"
+new york university,university
+empire state building,museum
+"new york transit museum,new york aquarium,new york university,metropolitan museum of art,washington mews,staten island ferry,statue of liberty,brooklyn bridge,cathedral of st john the divine","museum,aquarium,university,art_gallery,route,route,establishment,establishment,church"
+ground zero,establishment
+"statue of liberty,empire state building","establishment,museum"
+new york aquarium,aquarium
+"central park,new york university","park,university"
+"staten island ferry,museum of sex,radio city music hall,childrens museum of manhattan,federal hall","route,museum,establishment,museum,museum"
+new york university,university
+"new york aquarium,grand central terminal,bryant park,abingdon sq","aquarium,transit_station,park,route"
+new york aquarium,aquarium
+new york university,university
+new york university,university
+brooklyn bridge,establishment
+st pauls chapel,church
+brooklyn bridge,establishment
+new york aquarium,aquarium
+rockefeller center,establishment
+"rockefeller center,brooklyn bridge","establishment,establishment"
+"new york transit museum,grand central terminal,st patricks cathedral,staten island ferry,radio city music hall,empire state building","museum,transit_station,church,route,establishment,museum"
+rockefeller center,establishment
+"empire state building,washington mews,world trade center site,brooklyn bridge","museum,route,premise,establishment"
+"new york aquarium,central park,new york fire museum,museum of the city of new york,new york public library","aquarium,park,museum,museum,library"
+new york university,university
+colonnade row,museum
+"american museum of natural history,grand central terminal,st patricks cathedral,rockefeller center,staten island ferry,radio city music hall,empire state building,the dakota","museum,transit_station,church,establishment,route,establishment,museum,establishment"
+ground zero,establishment
+"bryant park,lincoln center,new york stock exchange,rockefeller center,statue of liberty,united nations,111 front street,federal hall","park,establishment,finance,establishment,establishment,establishment,street_address,museum"
+new york university,university
+new york transit museum,museum
+empire state building,museum
+brooklyn bridge,establishment
+new york university,university
+"rockefeller center,st patricks cathedral","establishment,church"
+empire state building,museum
+new york university,university
+"central park,city hall,ground zero,south st seaport,brooklyn bridge","park,local_government_office,establishment,route,establishment"
+brooklyn bridge,establishment
+"central park,ground zero,metropolitan museum of art,rockefeller center,empire state building,federal hall","park,establishment,art_gallery,establishment,museum,museum"
+new york university,university
+empire state building,museum
+new york university,university
+new york university,university
+st patricks cathedral,church
+"new york aquarium,new york university","aquarium,university"
+new york public library,library
+united nations,establishment
+new york university,university
+new york university,university
+new york university,university
+"bryant park,grand central terminal,st patricks cathedral,union sq,rockefeller center,staten island ferry,radio city music hall,st pauls chapel,yankee stadium,herald square,wollman skating rink","park,transit_station,church,political,establishment,route,establishment,church,stadium,town_square,establishment"
+city hall,local_government_office
+empire state building,museum
+"new york stock exchange,new york marble cemetery,new york university","finance,cemetery,university"
+central park,park
+"bryant park,rockefeller center,staten island ferry,radio city music hall,st pauls chapel,herald square","park,establishment,route,establishment,church,town_square"
+new york aquarium,aquarium
+"new york aquarium,statue of liberty,empire state building","aquarium,establishment,museum"
+chelsea art museum,art_gallery
+st patricks cathedral,church
+"bryant park,grand central terminal,st patricks cathedral,metropolitan museum of art,new york stock exchange,rockefeller center,staten island ferry,empire state building,brooklyn bridge,radio city music hall,federal hall,st pauls chapel,yankee stadium,herald square,wollman skating rink","park,transit_station,church,art_gallery,finance,establishment,route,museum,establishment,establishment,museum,church,stadium,town_square,establishment"
+statue of liberty,establishment
+central park,park
+central park,park
+"american museum of natural history,grand central terminal,st patricks cathedral,battery park,chelsea art museum,rockefeller center,statue of liberty,empire state building,radio city music hall,cathedral of st john the divine,herald square,wollman skating rink","museum,transit_station,church,park,art_gallery,establishment,establishment,museum,establishment,church,town_square,establishment"
+"chinatown,brooklyn bridge","neighborhood,establishment"
+new york university,university
+new york university,university
+"staten island ferry,rockefeller center,radio city music hall","route,establishment,establishment"
+"ground zero,staten island ferry,south st seaport,united nations,washington sq park","establishment,route,route,establishment,park"
+"federal hall,staten island ferry,radio city music hall","museum,route,establishment"
+empire state building,museum
+"grand central terminal,ground zero,rockefeller center,united nations,st pauls chapel,solomon r guggenheim museum","transit_station,establishment,establishment,establishment,church,museum"
+"prospect park,ellis island,brooklyn bridge","park,establishment,establishment"
+brooklyn bridge,establishment
+new york university,university
+"metropolitan museum of art,new york public library,grand central terminal,ground zero","art_gallery,library,transit_station,establishment"
+new york aquarium,aquarium
+central park,park
+new york university,university
+new york aquarium,aquarium
+moma,art_gallery
+united nations,establishment
+new york aquarium,aquarium
+new york transit museum,museum
+new york university,university
+"rockefeller center,national arts club,union sq","establishment,art_gallery,political"
+new york aquarium,aquarium
+drawing center,museum
+"new york aquarium,new york university","aquarium,university"
+rockefeller center,establishment
+"new york aquarium,new york university","aquarium,university"
+"empire state building,brooklyn bridge","museum,establishment"
+new york aquarium,aquarium
+"new york university,st patricks cathedral,rockefeller center,radio city music hall,museum of television and radio","university,church,establishment,establishment,museum"
+"lincoln center,staten island ferry,mulberry st","establishment,route,route"
+chinatown,neighborhood
+metropolitan museum of art,art_gallery
+brooklyn bridge,establishment
+"empire state building,brooklyn bridge","museum,establishment"
+"american museum of natural history,metropolitan museum of art,chelsea art museum,radio city music hall,washington sq park","museum,art_gallery,art_gallery,establishment,park"
+"ellis island,central park","establishment,park"
+"south st seaport,brooklyn bridge","route,establishment"
+herald square,town_square
+"grand central terminal,national museum of the american indian,washington mews,new york stock exchange,battery park,staten island ferry,empire state building,radio city music hall,federal hall,st pauls chapel","transit_station,museum,route,finance,park,route,museum,establishment,museum,church"
+"union sq,herald square","political,town_square"
+brooklyn bridge,establishment
+"empire state building,herald square,central park,brooklyn bridge","museum,town_square,park,establishment"
+"battery park,grand central terminal,empire state building","park,transit_station,museum"
+"new york university,new york public library","university,library"
+chrysler building,establishment
+"empire state building,111 front street","museum,street_address"
+central park,park
+"st pauls chapel,empire state building,trinity church","church,museum,church"
+"ellis island,chrysler building,grand central terminal,st patricks cathedral,ground zero,statue of liberty,empire state building,brooklyn bridge,united nations","establishment,establishment,transit_station,church,establishment,establishment,museum,establishment,establishment"
+new york aquarium,aquarium
+empire state building,museum
+"bryant park,staten island ferry,brooklyn bridge,flatiron building,federal hall,merchants house museum","park,route,establishment,establishment,museum,museum"
+"st patricks old cathedral,coney island boardwalk,new york university","church,route,university"
+new york university,university
+new york university,university
+new york transit museum,museum
+new york university,university
+new york university,university
+washington mews,route
+"new york aquarium,central park","aquarium,park"
+"federal hall,south st seaport,brooklyn bridge,trinity church","museum,route,establishment,church"
+new york aquarium,aquarium
+new york aquarium,aquarium
+new york university,university
+city hall,local_government_office
+empire state building,museum
+museum of television and radio,museum
+new york university,university
+new york university,university
+ground zero,establishment
+"new york aquarium,moma","aquarium,art_gallery"
+"new york aquarium,new york university","aquarium,university"
+new york university,university
+"city hall,madison sq park,grand central terminal,washington mews,united nations,washington sq park","local_government_office,park,transit_station,route,establishment,park"
+american museum of natural history,museum
+"metropolitan museum of art,american museum of natural history,central park","art_gallery,museum,park"
+"the dakota,new york university","establishment,university"
+"grand central terminal,rockefeller center,statue of liberty,empire state building,radio city music hall,flatiron building,brooklyn bridge","transit_station,establishment,establishment,museum,establishment,establishment,establishment"
+new york aquarium,aquarium
+new york university,university
+new york university,university
+new york university,university
+central park,park
+new york university,university
+"new york aquarium,new york university","aquarium,university"
+"central park,bryant park,lincoln center,grand central terminal,bowling green,battery park,chelsea art museum,empire state building,the dakota,federal hall","park,park,establishment,transit_station,park,park,art_gallery,museum,establishment,museum"
+new york university,university
+"world trade center site,staten island ferry,solomon r guggenheim museum","premise,route,museum"
+new york public library,library
+"chinatown,rockefeller center,brooklyn bridge,moma","neighborhood,establishment,establishment,art_gallery"
+"grand central terminal,chrysler building,washington mews,new york stock exchange,rockefeller center,empire state building,radio city music hall,museum of television and radio","transit_station,establishment,route,finance,establishment,museum,establishment,museum"
+empire state building,museum
+"studio museum,museum at fit,frick collection","museum,museum,museum"
+"ellis island,bryant park,lincoln center,grand central terminal,metropolitan museum of art,new york stock exchange,chelsea art museum,rockefeller center,staten island ferry,statue of liberty,washington sq park,solomon r guggenheim museum,new york public library","establishment,park,establishment,transit_station,art_gallery,finance,art_gallery,establishment,route,establishment,park,museum,library"
+radio city music hall,establishment
+new york aquarium,aquarium
+empire state building,museum
+new york university,university
+central park,park
+"madison sq park,chrysler building,st patricks cathedral,rockefeller center,radio city music hall,empire state building,united nations","park,establishment,church,establishment,establishment,museum,establishment"
+"chrysler building,empire state building,ground zero","establishment,museum,establishment"
+brooklyn bridge,establishment
+new york aquarium,aquarium
+new york university,university
+new york university,university
+"prospect park,brooklyn bridge","park,establishment"
+"new york university,brooklyn bridge","university,establishment"
+"bryant park,brooklyn bridge","park,establishment"
+new york aquarium,aquarium
+empire state building,museum
+"empire state building,chrysler building,statue of liberty,colonnade row","museum,establishment,establishment,museum"
+american museum of natural history,museum
+new york university,university
+"grand central terminal,new museum of contemporary art,statue of liberty,wollman skating rink","transit_station,museum,establishment,establishment"
+grand central terminal,transit_station
+empire state building,museum
+staten island ferry,route
+"new york university,empire state building","university,museum"
+"united nations,rockefeller center,st patricks cathedral","establishment,establishment,church"
+new york university,university
+museum of modern art,museum
+"new york aquarium,statue of liberty","aquarium,establishment"
+new york university,university
+new york university,university
+new york university,university
+new york aquarium,aquarium
+"rockefeller center,staten island ferry","establishment,route"
+new york university,university
+new york university,university
+brooklyn bridge,establishment
+"new york aquarium,bryant park,bowling green,empire state building,brooklyn bridge","aquarium,park,park,museum,establishment"
+new york university,university
+"american museum of natural history,columbus park,madison sq park,ground zero,staten island ferry,brooklyn bridge,federal hall","museum,park,park,establishment,route,establishment,museum"
+new york university,university
+brooklyn bridge,establishment
+grand central terminal,transit_station
+"american museum of natural history,chrysler building,ground zero,metropolitan museum of art,rockefeller center,staten island ferry,statue of liberty,empire state building,the dakota,washington sq park,wollman skating rink","museum,establishment,establishment,art_gallery,establishment,route,establishment,museum,establishment,park,establishment"
+washington sq park,park
+washington mews,route
+new york public library,library
+new york university,university
+chelsea art museum,art_gallery
+new york aquarium,aquarium
+brooklyn bridge,establishment
+"new york university,chrysler building,rockefeller center,statue of liberty,empire state building","university,establishment,establishment,establishment,museum"
+"american museum of natural history,grand central terminal,sheridan square,rockefeller center,empire state building","museum,transit_station,route,establishment,museum"
+the dakota,establishment
+new york aquarium,aquarium
+"chrysler building,statue of liberty,ground zero","establishment,establishment,establishment"
+tenement museum,museum
+new york university,university
+"grace church,ground zero","church,establishment"
+empire state building,museum
+"museum of television and radio,solomon r guggenheim museum,central park,st patricks cathedral,union sq,mulberry st,metropolitan museum of art,riverside church,rockefeller center,staten island ferry,empire state building,frick collection,united nations,herald square,wollman skating rink","museum,museum,park,church,political,route,art_gallery,church,establishment,route,museum,museum,establishment,town_square,establishment"
+rockefeller center,establishment
+grace church,church
+lincoln center,establishment
+staten island ferry,route
+"central park,ground zero","park,establishment"
+moma,art_gallery
+new york university,university
+new york aquarium,aquarium
+new york stock exchange,finance
+new york university,university
+brooklyn bridge,establishment
+rockefeller center,establishment
+"central park,city hall,chrysler building,brooklyn bridge,radio city music hall,grace church,herald square","park,local_government_office,establishment,establishment,establishment,church,town_square"
+brooklyn bridge,establishment
+new york university,university
+moma,art_gallery
+empire state building,museum
+new york aquarium,aquarium
+"metropolitan museum of art,dumbo,chelsea art museum,the dakota","art_gallery,neighborhood,art_gallery,establishment"
+new york aquarium,aquarium
+new york university,university
+empire state building,museum
+"metropolitan museum of art,new york aquarium","art_gallery,aquarium"
+new york university,university
+childrens museum of manhattan,museum
+"new york transit museum,madison sq park,national museum of the american indian,union sq,washington mews,south st seaport,empire state building,colonnade row,united nations,drawing center,grace church,st pauls chapel,washington sq park","museum,park,museum,political,route,route,museum,museum,establishment,museum,church,church,park"
+"rockefeller center,chrysler building,empire state building","establishment,establishment,museum"
+empire state building,museum
+new york university,university
+bryant park,park
+"tompkins square park,coney island boardwalk","park,route"
+"rockefeller center,st patricks cathedral,st pauls chapel","establishment,church,church"
+"world trade center site,new york university,grand central terminal,rockefeller center,statue of liberty,empire state building,radio city music hall,federal hall,herald square,new york public library","premise,university,transit_station,establishment,establishment,museum,establishment,museum,town_square,library"
+brooklyn bridge,establishment
+chinatown,neighborhood
+new york university,university
+"american museum of natural history,new york university","museum,university"
+"national arts club,st patricks cathedral,empire state building,wollman skating rink","art_gallery,church,museum,establishment"
+new york aquarium,aquarium
+central park,park
+childrens museum of manhattan,museum
+new york aquarium,aquarium
+new york aquarium,aquarium
+"new york aquarium,new york university","aquarium,university"
+statue of liberty,establishment
+"radio city music hall,washington sq park,central park,empire state building","establishment,park,park,museum"
+new york university,university
+brooklyn bridge,establishment
+"new york university,grand central terminal,chrysler building,brooklyn bridge,museum of modern art","university,transit_station,establishment,establishment,museum"
+"lincoln center,rockefeller center","establishment,establishment"
+new york aquarium,aquarium
+moma,art_gallery
+chinatown,neighborhood
+"washington mews,chinatown,central park,brooklyn bridge","route,neighborhood,park,establishment"
+"ellis island,federal reserve bank,grand central terminal,chrysler building,metropolitan museum of art,statue of liberty,brooklyn bridge,radio city music hall","establishment,establishment,transit_station,establishment,art_gallery,establishment,establishment,establishment"
+"city hall,empire state building,brooklyn bridge","local_government_office,museum,establishment"
+"empire state building,chrysler building,new york aquarium,brooklyn bridge","museum,establishment,aquarium,establishment"
+"chelsea hotel,central park,empire state building","lodging,park,museum"
+new york university,university
+empire state building,museum
+empire state building,museum
+new york aquarium,aquarium
+"chelsea hotel,madison sq park,dumbo,empire state building,new york public library","lodging,park,neighborhood,museum,library"
+"new york aquarium,bryant park,madison sq park,st patricks cathedral,union sq,herald square","aquarium,park,park,church,political,town_square"
+"flatiron building,staten island ferry,columbus park","establishment,route,park"
+new york university,university
+chelsea art museum,art_gallery
+"rockefeller center,chrysler building","establishment,establishment"
+new york university,university
+"new york aquarium,empire state building,new york public library","aquarium,museum,library"
+new york university,university
+brooklyn bridge,establishment
+"central park,empire state building","park,museum"
+"st pauls chapel,wollman skating rink,bryant park,bowling green","church,establishment,park,park"
+"coney island boardwalk,brooklyn bridge","route,establishment"
+"herald square,empire state building","town_square,museum"
+"new york aquarium,new york fire museum","aquarium,museum"
+brooklyn bridge,establishment
+central park,park
+"statue of liberty,central park","establishment,park"
+staten island ferry,route
+"whitney museum of american art,chrysler building,union sq,metropolitan museum of art,flatiron building,solomon r guggenheim museum","museum,establishment,political,art_gallery,establishment,museum"
+"central park,new york university","park,university"
+prospect park,park
+empire state building,museum
+new york aquarium,aquarium
+brooklyn bridge,establishment
+new york university,university
+"american museum of natural history,new york university","museum,university"
+new york university,university
+"empire state building,brooklyn bridge","museum,establishment"
+"new york marble cemetery,new york aquarium","cemetery,aquarium"
+"new york university,new york public library","university,library"
+new york transit museum,museum
+brooklyn bridge,establishment
+"statue of liberty,empire state building","establishment,museum"
+new york aquarium,aquarium
+new york stock exchange,finance
+new york aquarium,aquarium
+new york university,university
+new york aquarium,aquarium
+"grand central terminal,new york university","transit_station,university"
+new york university,university
+"chrysler building,ground zero","establishment,establishment"
+new york aquarium,aquarium
+new york aquarium,aquarium
+new york university,university
+"ground zero,battery park,staten island ferry,south st seaport,radio city music hall,empire state building,washington sq park,federal hall,st pauls chapel,solomon r guggenheim museum","establishment,park,route,route,establishment,museum,park,museum,church,museum"
+"chelsea art museum,radio city music hall,new york public library","art_gallery,establishment,library"
+"new york aquarium,chrysler building,staten island ferry,statue of liberty,empire state building","aquarium,establishment,route,establishment,museum"
+"new york university,new york fire museum","university,museum"
+"herald square,new york aquarium,central park","town_square,aquarium,park"
+new york aquarium,aquarium
+"american museum of natural history,pierpont morgan library,madison sq park,grand central terminal,metropolitan museum of art,chelsea art museum,museum of sex,empire state building,radio city music hall,flatiron building","museum,museum,park,transit_station,art_gallery,art_gallery,museum,museum,establishment,establishment"
+new york aquarium,aquarium
+new york university,university
+brooklyn bridge,establishment
+new york aquarium,aquarium
+new york university,university
+"ground zero,metropolitan museum of art,rockefeller center,statue of liberty,empire state building","establishment,art_gallery,establishment,establishment,museum"
+new york aquarium,aquarium
+new york aquarium,aquarium
+new york university,university
+new york aquarium,aquarium
+empire state building,museum
+new york university,university
+new york aquarium,aquarium
+"new york university,bryant park,madison sq park,union sq,staten island ferry,empire state building,st pauls chapel,merchants house museum,washington sq park","university,park,park,political,route,museum,church,museum,park"
+coney island boardwalk,route
+"solomon r guggenheim museum,bryant park","museum,park"
+empire state building,museum
+new york university,university
+chrysler building,establishment
+"chelsea hotel,museum of television and radio","lodging,museum"
+empire state building,museum
+"american museum of natural history,bryant park,whitney museum of american art,lincoln center,grand central terminal,st patricks cathedral,neue galerie,metropolitan museum of art,rockefeller center,statue of liberty,empire state building,brooklyn bridge,frick collection,radio city music hall,federal hall,washington sq park,solomon r guggenheim museum","museum,park,museum,establishment,transit_station,church,museum,art_gallery,establishment,establishment,museum,establishment,museum,establishment,museum,park,museum"
+new york university,university
+new york university,university
+"the dakota,rockefeller center,st patricks cathedral,bryant park","establishment,establishment,church,park"
+"chinatown,world trade center site","neighborhood,premise"
+chinatown,neighborhood
+"american museum of natural history,central park,grand central terminal,st patricks cathedral,metropolitan museum of art,new york stock exchange,chelsea art museum,rockefeller center,staten island ferry,radio city music hall,united nations,the dakota,federal hall","museum,park,transit_station,church,art_gallery,finance,art_gallery,establishment,route,establishment,establishment,establishment,museum"
+radio city music hall,establishment
+empire state building,museum
+"chrysler building,st patricks cathedral,grand central terminal,rockefeller center,staten island ferry,radio city music hall","establishment,church,transit_station,establishment,route,establishment"
+new york university,university
+"new york stock exchange,federal hall,bowling green","finance,museum,park"
+"bryant park,st patricks cathedral,chinatown,empire state building,radio city music hall,flatiron building,the dakota","park,church,neighborhood,museum,establishment,establishment,establishment"
+new york university,university
+staten island ferry,route
+new york aquarium,aquarium
+"american museum of natural history,new york transit museum,new york aquarium,federal reserve bank,new york university,new york fire museum,city hall,world trade center site,chrysler building,grand central terminal,new york stock exchange,rockefeller center,empire state building,brooklyn bridge,new york public library","museum,museum,aquarium,establishment,university,museum,local_government_office,premise,establishment,transit_station,finance,establishment,museum,establishment,library"
+new york marble cemetery,cemetery
+"ellis island,staten island ferry,rockefeller center,statue of liberty,empire state building","establishment,route,establishment,establishment,museum"
+madison sq park,park
+new york university,university
+new york aquarium,aquarium
+new york university,university
+wollman skating rink,establishment
+"union sq,south st seaport,brooklyn bridge","political,route,establishment"
+new york aquarium,aquarium
+central park,park
+staten island ferry,route
+new york university,university
+new york university,university
+central park,park
+"chinatown,radio city music hall","neighborhood,establishment"
+"federal hall,ground zero","museum,establishment"
+"new york aquarium,new york university","aquarium,university"
+"rockefeller center,new york aquarium","establishment,aquarium"
+"rockefeller center,battery park,federal hall,wollman skating rink","establishment,park,museum,establishment"
+"city hall,st patricks cathedral,rockefeller center,statue of liberty,radio city music hall,empire state building,washington sq park,wollman skating rink","local_government_office,church,establishment,establishment,establishment,museum,park,establishment"
+"metropolitan museum of art,chelsea art museum,new york university,ground zero","art_gallery,art_gallery,university,establishment"
+new york aquarium,aquarium
+brooklyn bridge,establishment
+"staten island ferry,empire state building","route,museum"
+new york aquarium,aquarium
+"new york university,new york public library","university,library"
+chelsea hotel,lodging
+new york aquarium,aquarium
+"united nations,central park,brooklyn bridge,moma","establishment,park,establishment,art_gallery"
+"statue of liberty,new york fire museum","establishment,museum"
+new york fire museum,museum
+coney island boardwalk,route
+chrysler building,establishment
+"new york stock exchange,new york aquarium,new york public library","finance,aquarium,library"
+empire state building,museum
+new york aquarium,aquarium
+brooklyn bridge,establishment
+"new york aquarium,new york university","aquarium,university"
+st patricks cathedral,church
+"new york aquarium,solomon r guggenheim museum,moma","aquarium,museum,art_gallery"
+new york aquarium,aquarium
+new york university,university
+empire state building,museum
+new york university,university
+"metropolitan museum of art,museum of television and radio","art_gallery,museum"
+flatiron building,establishment
+new york aquarium,aquarium
+"staten island ferry,new york university","route,university"
+"grand central terminal,new york university","transit_station,university"
+new york university,university
+brooklyn bridge,establishment
+"world trade center site,new york university","premise,university"
+new york university,university
+new york aquarium,aquarium
+"radio city music hall,empire state building","establishment,museum"
+"united nations,new york public library","establishment,library"
+"new york transit museum,new york aquarium,new york university","museum,aquarium,university"
+new york university,university
+"central park,chrysler building,new york public library,metropolitan museum of art,chelsea art museum,rockefeller center,empire state building,brooklyn bridge,flatiron building,radio city music hall,united nations,solomon r guggenheim museum,moma","park,establishment,library,art_gallery,art_gallery,establishment,museum,establishment,establishment,establishment,establishment,museum,art_gallery"
+new york aquarium,aquarium
+rockefeller center,establishment
+"columbus park,grand central terminal,mulberry st,ground zero,rockefeller center,staten island ferry,empire state building,radio city music hall,washington sq park,federal hall,solomon r guggenheim museum","park,transit_station,route,establishment,establishment,route,museum,establishment,park,museum,museum"
+riverside church,church
+studio museum,museum
+"new york aquarium,new york university,new york stock exchange,empire state building,flatiron building","aquarium,university,finance,museum,establishment"
+new york university,university
+brooklyn bridge,establishment
+metropolitan museum of art,art_gallery
+new york university,university
+st patricks cathedral,church
+"rockefeller center,empire state building,bowling green","establishment,museum,park"
+new york university,university
+new york university,university
+"st patricks old cathedral,radio city music hall,drawing center","church,establishment,museum"
+new york university,university
+new york aquarium,aquarium
+new york university,university
+"new york aquarium,madison sq park,grand central terminal,national museum of the american indian,st patricks cathedral,abingdon sq,staten island ferry,empire state building,the dakota,federal hall","aquarium,park,transit_station,museum,church,route,route,museum,establishment,museum"
+"federal hall,st patricks cathedral,mulberry st,empire state building","museum,church,route,museum"
+"chrysler building,coney island boardwalk","establishment,route"
+"new york stock exchange,staten island ferry,ellis island","finance,route,establishment"
+"staten island ferry,ground zero","route,establishment"
+"new york aquarium,new york university,new york fire museum","aquarium,university,museum"
+"ground zero,brooklyn bridge,bowling green","establishment,establishment,park"
+"world trade center site,new york stock exchange,rockefeller center,brooklyn bridge","premise,finance,establishment,establishment"
+lincoln center,establishment
+new york university,university
+central park,park
+"the dakota,staten island ferry,radio city music hall","establishment,route,establishment"
+new york university,university
+brooklyn bridge,establishment
+"empire state building,central park,brooklyn bridge","museum,park,establishment"
+rockefeller center,establishment
+new york university,university
+new york university,university
+world trade center site,premise
+"rockefeller center,new york aquarium","establishment,aquarium"
+new york university,university
+new york university,university
+"empire state building,ground zero","museum,establishment"
+new york university,university
+"new york university,metropolitan museum of art,staten island ferry,rockefeller center,empire state building","university,art_gallery,route,establishment,museum"
+"central park,rockefeller center,empire state building,radio city music hall,flatiron building,brooklyn bridge,united nations","park,establishment,museum,establishment,establishment,establishment,establishment"
+new york aquarium,aquarium
+"staten island ferry,bowling green","route,park"
+new york university,university
+"ellis island,federal reserve bank,national museum of the american indian,new york stock exchange,battery park,staten island ferry,federal hall","establishment,establishment,museum,finance,park,route,museum"
+new york aquarium,aquarium
+new york university,university
+radio city music hall,establishment
+"federal hall,statue of liberty","museum,establishment"
+brooklyn bridge,establishment
+"bryant park,chrysler building,grand central terminal,st patricks cathedral,bowling green,metropolitan museum of art,new york stock exchange,statue of liberty,brooklyn bridge,111 front street,empire state building,st pauls chapel,herald square","park,establishment,transit_station,church,park,art_gallery,finance,establishment,establishment,street_address,museum,church,town_square"
+"federal reserve bank,city hall,south st seaport,111 front street,federal hall","establishment,local_government_office,route,street_address,museum"
+statue of liberty,establishment
+chrysler building,establishment
+new york university,university
+new york university,university
+"metropolitan museum of art,new york university","art_gallery,university"
+ground zero,establishment
+new york aquarium,aquarium
+metropolitan museum of art,art_gallery
+american museum of natural history,museum
+"metropolitan museum of art,washington sq park","art_gallery,park"
+new york university,university
+"american museum of natural history,metropolitan museum of art,rockefeller center,staten island ferry,empire state building,brooklyn bridge,wollman skating rink","museum,art_gallery,establishment,route,museum,establishment,establishment"
+"chrysler building,brooklyn bridge","establishment,establishment"
+"new york university,new york public library","university,library"
+new york aquarium,aquarium
+"rockefeller center,grand central terminal,st patricks cathedral,radio city music hall","establishment,transit_station,church,establishment"
+new york public library,library
+chinatown,neighborhood
+"federal hall,rockefeller center","museum,establishment"
+new york aquarium,aquarium
+new york public library,library
+central park,park
+"central park,battery park,rockefeller center,staten island ferry,statue of liberty,radio city music hall,empire state building","park,park,establishment,route,establishment,establishment,museum"
+"ellis island,statue of liberty,chrysler building,central park","establishment,establishment,establishment,park"
+eldridge st synagogue,museum
+new york university,university
+new york university,university
+new york aquarium,aquarium
+new york university,university
+new york university,university
+"dumbo,cathedral of st john the divine,rockefeller center","neighborhood,church,establishment"
+metropolitan museum of art,art_gallery
+"st pauls chapel,wollman skating rink","church,establishment"
+"empire state building,new york public library","museum,library"
+new york aquarium,aquarium
+new york university,university
+statue of liberty,establishment
+"empire state building,chrysler building,brooklyn bridge","museum,establishment,establishment"
+new york university,university
+new york aquarium,aquarium
+ground zero,establishment
+"new york university,brooklyn bridge","university,establishment"
+bryant park,park
+"south st seaport,brooklyn bridge","route,establishment"
+new york university,university
+"american museum of natural history,st patricks cathedral,empire state building","museum,church,museum"
+statue of liberty,establishment
+new york aquarium,aquarium
+new york university,university
+"rockefeller center,brooklyn bridge","establishment,establishment"
+new york aquarium,aquarium
+"madison sq park,staten island ferry,union sq,pierpont morgan library","park,route,political,museum"
+new york aquarium,aquarium
+"museum of modern art,central park","museum,park"
+new york university,university
+new york university,university
+new york university,university
+new york public library,library
+"ellis island,grand central terminal,st patricks cathedral,battery park,statue of liberty,empire state building,st pauls chapel,yankee stadium","establishment,transit_station,church,park,establishment,museum,church,stadium"
+"bryant park,national museum of the american indian,st patricks cathedral,metropolitan museum of art,rockefeller center,staten island ferry,washington sq park","park,museum,church,art_gallery,establishment,route,park"
+chelsea art museum,art_gallery
+"federal hall,statue of liberty,empire state building","museum,establishment,museum"
+"empire state building,brooklyn bridge","museum,establishment"
+"flatiron building,central park","establishment,park"
+"empire state building,radio city music hall,rockefeller center,brooklyn bridge","museum,establishment,establishment,establishment"
+new york public library,library
+"lincoln center,st patricks cathedral,chelsea art museum,radio city music hall,empire state building,the dakota","establishment,church,art_gallery,establishment,museum,establishment"
+new york aquarium,aquarium
+battery park,park
+new york aquarium,aquarium
+new york university,university
+brooklyn bridge,establishment
+central park,park
+empire state building,museum
+brooklyn bridge,establishment
+new york university,university
+"world trade center site,new york aquarium,ellis island,new york university,grand central terminal,union sq,new york stock exchange,rockefeller center,staten island ferry,statue of liberty,empire state building,new york public library","premise,aquarium,establishment,university,transit_station,political,finance,establishment,route,establishment,museum,library"
+"ground zero,metropolitan museum of art,new york stock exchange,rockefeller center,brooklyn bridge,federal hall","establishment,art_gallery,finance,establishment,establishment,museum"
+new york university,university
+"rockefeller center,chrysler building","establishment,establishment"
+"madison sq park,grand central terminal,new york aquarium,brooklyn bridge","park,transit_station,aquarium,establishment"
+brooklyn bridge,establishment
+new york university,university
+ground zero,establishment
+"empire state building,statue of liberty,brooklyn bridge,ground zero","museum,establishment,establishment,establishment"
+"bryant park,st patricks cathedral,new york stock exchange,empire state building,radio city music hall,museum of television and radio","park,church,finance,museum,establishment,museum"
+"national museum of the american indian,rockefeller center,statue of liberty,empire state building,brooklyn bridge,washington sq park","museum,establishment,establishment,museum,establishment,park"
+"american museum of natural history,central park","museum,park"
+new york university,university
+"new york aquarium,statue of liberty,empire state building,new york public library","aquarium,establishment,museum,library"
+"statue of liberty,ground zero","establishment,establishment"
+new york university,university
+new york aquarium,aquarium
+new york aquarium,aquarium
+"american museum of natural history,grand central terminal,st patricks cathedral,ground zero,rockefeller center,statue of liberty,empire state building,solomon r guggenheim museum,wollman skating rink","museum,transit_station,church,establishment,establishment,establishment,museum,museum,establishment"
+new york university,university
+new york university,university
+"empire state building,grand central terminal,brooklyn bridge","museum,transit_station,establishment"
+new york university,university
+"new york aquarium,new york university","aquarium,university"
+new york aquarium,aquarium
+new york university,university
+"new york transit museum,central park,lincoln center,battery park,chelsea art museum,brooklyn bridge","museum,park,establishment,park,art_gallery,establishment"
+brooklyn bridge,establishment
+"new york aquarium,chrysler building,statue of liberty,empire state building,flatiron building,new york public library","aquarium,establishment,establishment,museum,establishment,library"
+staten island ferry,route
+"grace church,new york university","church,university"
+new york stock exchange,finance
+new york public library,library
+"empire state building,new york public library","museum,library"
+statue of liberty,establishment
+brooklyn bridge,establishment
+new york aquarium,aquarium
+"central park,bryant park,hudson river park,grand central terminal,new york public library,chinatown,rockefeller center,empire state building,washington sq park,moma","park,park,park,transit_station,library,neighborhood,establishment,museum,park,art_gallery"
+"grand central terminal,chrysler building,central park,empire state building","transit_station,establishment,park,museum"
+museum of television and radio,museum
+new york university,university
+new york university,university
+new york university,university
+"staten island ferry,grand central terminal,herald square,empire state building","route,transit_station,town_square,museum"
+new york university,university
+"washington sq park,brooklyn bridge","park,establishment"
+brooklyn bridge,establishment
+new york aquarium,aquarium
+new york aquarium,aquarium
+radio city music hall,establishment
+brooklyn bridge,establishment
+new york aquarium,aquarium
+"world trade center site,central park,metropolitan museum of art,rockefeller center,empire state building,radio city music hall,brooklyn bridge","premise,park,art_gallery,establishment,museum,establishment,establishment"
+new york university,university
+"the dakota,rockefeller center,new york public library","establishment,establishment,library"
+new york aquarium,aquarium
+"staten island ferry,statue of liberty","route,establishment"
+chinatown,neighborhood
+"st patricks cathedral,mulberry st,washington mews,rockefeller center,flatiron building","church,route,route,establishment,establishment"
+"rockefeller center,herald square,radio city music hall","establishment,town_square,establishment"
+new york university,university
+"city hall,trinity church,staten island ferry,south st seaport,brooklyn bridge,grace church","local_government_office,church,route,route,establishment,church"
+new york university,university
+"new york aquarium,trinity church,new york stock exchange,statue of liberty,empire state building","aquarium,church,finance,establishment,museum"
+"grand central terminal,ground zero,new york stock exchange,radio city music hall,united nations,federal hall","transit_station,establishment,finance,establishment,establishment,museum"
+"battery park,empire state building","park,museum"
+new york aquarium,aquarium
+"grand central terminal,new york university","transit_station,university"
+"rockefeller center,new york aquarium","establishment,aquarium"
+american museum of natural history,museum
+new york aquarium,aquarium
+pierpont morgan library,museum
+childrens museum of manhattan,museum
+"central park,chrysler building,metropolitan museum of art,brooklyn bridge,museum of modern art","park,establishment,art_gallery,establishment,museum"
+"new york university,new york aquarium,empire state building","university,aquarium,museum"
+"staten island ferry,chrysler building,new york aquarium,empire state building","route,establishment,aquarium,museum"
+new york aquarium,aquarium
+brooklyn bridge,establishment
+empire state building,museum
+metropolitan museum of art,art_gallery
+new york aquarium,aquarium
+new york university,university
+"dumbo,grand central terminal,staten island ferry","neighborhood,transit_station,route"
+central park,park
+"rockefeller center,brooklyn bridge","establishment,establishment"
+new york aquarium,aquarium
+new york aquarium,aquarium
+brooklyn bridge,establishment
+statue of liberty,establishment
+empire state building,museum
+"american museum of natural history,new york university,grand central terminal,metropolitan museum of art,new york public library","museum,university,transit_station,art_gallery,library"
+"rockefeller center,solomon r guggenheim museum,empire state building,wollman skating rink","establishment,museum,museum,establishment"
+"staten island ferry,rockefeller center,new york aquarium,empire state building","route,establishment,aquarium,museum"
+new york aquarium,aquarium
+st patricks cathedral,church
+new york university,university
+brooklyn bridge,establishment
+rockefeller center,establishment
+"chelsea hotel,chinatown,washington sq park,brooklyn bridge","lodging,neighborhood,park,establishment"
+new york university,university
+"empire state building,staten island ferry,brooklyn bridge","museum,route,establishment"
+brooklyn bridge,establishment
+statue of liberty,establishment
+"world trade center site,statue of liberty,ellis island,central park","premise,establishment,establishment,park"
+new york university,university
+new york university,university
+"grand central terminal,national museum of the american indian,st patricks cathedral,union sq,metropolitan museum of art,battery park,rockefeller center,staten island ferry,empire state building,radio city music hall,federal hall,st pauls chapel,solomon r guggenheim museum","transit_station,museum,church,political,art_gallery,park,establishment,route,museum,establishment,museum,church,museum"
+battery park,park
+new york aquarium,aquarium
+empire state building,museum
+"new york university,american museum of natural history,central park,empire state building","university,museum,park,museum"
+brooklyn bridge,establishment
+"empire state building,new york stock exchange,brooklyn bridge","museum,finance,establishment"
+"st patricks old cathedral,national museum of the american indian,new york stock exchange,st pauls chapel,washington sq park","church,museum,finance,church,park"
+"gallery 128,new york marble cemetery,new york aquarium","art_gallery,cemetery,aquarium"
+chrysler building,establishment
+"statue of liberty,central park,new york public library","establishment,park,library"
+statue of liberty,establishment
+"cathedral of st john the divine,empire state building","church,museum"
+coney island boardwalk,route
+"rockefeller center,new york aquarium,statue of liberty,empire state building","establishment,aquarium,establishment,museum"
+statue of liberty,establishment
+"lincoln center,radio city music hall","establishment,establishment"
+new york university,university
+"federal hall,museum of sex","museum,museum"
+"chinatown,empire state building","neighborhood,museum"
+"american museum of natural history,new york transit museum,rockefeller center,bryant park","museum,museum,establishment,park"
+new york university,university
+new york university,university
+"dumbo,statue of liberty,empire state building","neighborhood,establishment,museum"
+"american museum of natural history,new york aquarium,central park,grand central terminal,empire state building,brooklyn bridge","museum,aquarium,park,transit_station,museum,establishment"
+"washington sq park,grand central terminal,herald square,bryant park","park,transit_station,town_square,park"
+chelsea art museum,art_gallery
+new york aquarium,aquarium
+new york aquarium,aquarium
+new york university,university
+merchants house museum,museum
+"grand central terminal,sheridan square,bowling green,chelsea art museum,staten island ferry,radio city music hall,washington sq park,united nations,museum of television and radio","transit_station,route,park,art_gallery,route,establishment,park,establishment,museum"
+central park,park
+st patricks cathedral,church
+empire state building,museum
+brooklyn bridge,establishment
+new york university,university
+radio city music hall,establishment
+new york university,university
+new york university,university
+central park,park
+chrysler building,establishment
+ellis island,establishment
+statue of liberty,establishment
+"staten island ferry,rockefeller center,statue of liberty,radio city music hall,brooklyn bridge,the dakota","route,establishment,establishment,establishment,establishment,establishment"
+new york aquarium,aquarium
+"south st seaport,brooklyn bridge","route,establishment"
+"metropolitan museum of art,new york transit museum,solomon r guggenheim museum","art_gallery,museum,museum"
+american museum of natural history,museum
+new york aquarium,aquarium
+new york university,university
+new york university,university
+"new york university,pierpont morgan library,bryant park,union sq,empire state building,herald square","university,museum,park,political,museum,town_square"
+new york university,university
+"madison sq park,the dakota,rockefeller center,empire state building","park,establishment,establishment,museum"
+"chelsea art museum,staten island ferry,herald square,empire state building","art_gallery,route,town_square,museum"
+"american museum of natural history,new york university","museum,university"
+new york university,university
+"new york stock exchange,new york transit museum","finance,museum"
+new york aquarium,aquarium
+new york transit museum,museum
+new york university,university
+"american museum of natural history,bryant park,madison sq park,grand central terminal,st patricks cathedral,union sq,the dakota,chelsea art museum,rockefeller center,staten island ferry,statue of liberty,brooklyn bridge,111 front street,empire state building,radio city music hall,herald square","museum,park,park,transit_station,church,political,establishment,art_gallery,establishment,route,establishment,establishment,street_address,museum,establishment,town_square"
+"empire state building,rockefeller center,herald square,brooklyn bridge","museum,establishment,town_square,establishment"
+"staten island ferry,rockefeller center,new york university","route,establishment,university"
+new york aquarium,aquarium
+new york aquarium,aquarium
+new york aquarium,aquarium
+radio city music hall,establishment
+museum of television and radio,museum
+"grand central terminal,union sq,central park","transit_station,political,park"
+"american museum of natural history,staten island ferry,new york aquarium","museum,route,aquarium"
+new york aquarium,aquarium
+new york university,university
+"american museum of natural history,new york transit museum,new york aquarium,new york fire museum,new york marble cemetery,battery park,chinatown,staten island ferry,statue of liberty,empire state building,flatiron building,museum of modern art,new york public library","museum,museum,aquarium,museum,cemetery,park,neighborhood,route,establishment,museum,establishment,museum,library"
+"rockefeller center,new york university","establishment,university"
+new york university,university
+staten island ferry,route
+new york university,university
+new york aquarium,aquarium
+"madison sq park,chelsea art museum,rockefeller center,brooklyn bridge","park,art_gallery,establishment,establishment"
+new york aquarium,aquarium
+new york aquarium,aquarium
+american museum of natural history,museum
+new york marble cemetery,cemetery
+new york university,university
+"washington sq park,grand central terminal,mulberry st,brooklyn bridge","park,transit_station,route,establishment"
+"new york university,brooklyn bridge","university,establishment"
+new york university,university
+"chelsea art museum,statue of liberty,ellis island","art_gallery,establishment,establishment"
+flatiron building,establishment
+"metropolitan museum of art,columbus park,abingdon sq","art_gallery,park,route"
+"metropolitan museum of art,battery park,chelsea art museum","art_gallery,park,art_gallery"
+"bridgemarket,new york aquarium","grocery_or_supermarket,aquarium"
+world trade center site,premise
+staten island ferry,route
+new york university,university
+"solomon r guggenheim museum,new york university,madison sq park,st patricks cathedral,union sq,mulberry st,neue galerie,metropolitan museum of art,battery park,chelsea art museum,rockefeller center,south st seaport,empire state building,brooklyn bridge,staten island ferry,drawing center,statue of liberty,st pauls chapel,washington sq park,museum of television and radio","museum,university,park,church,political,route,museum,art_gallery,park,art_gallery,establishment,route,museum,establishment,route,museum,establishment,church,park,museum"
+"federal hall,staten island ferry,union sq,herald square","museum,route,political,town_square"
+new york public library,library
+"rockefeller center,new york university","establishment,university"
+new york aquarium,aquarium
+"bryant park,chrysler building,grand central terminal,bowling green,staten island ferry,empire state building,herald square","park,establishment,transit_station,park,route,museum,town_square"
+new york aquarium,aquarium
+"ellis island,central park","establishment,park"
+statue of liberty,establishment
+museum of television and radio,museum
+american museum of natural history,museum
+lincoln center,establishment
+"metropolitan museum of art,new york aquarium,central park,brooklyn bridge","art_gallery,aquarium,park,establishment"
+federal hall,museum
+empire state building,museum
+metropolitan museum of art,art_gallery
+new york university,university
+metropolitan museum of art,art_gallery
+"rockefeller center,radio city music hall,new york public library","establishment,establishment,library"
+columbus park,park
+"columbus park,central park,union sq,chelsea art museum,statue of liberty,empire state building,washington sq park","park,park,political,art_gallery,establishment,museum,park"
+"federal hall,lincoln center","museum,establishment"
+"schomburg center for research in black culture,staten island ferry,ground zero","establishment,route,establishment"
+"battery park,hudson river park","park,park"
+new york university,university
+"herald square,empire state building,wollman skating rink","town_square,museum,establishment"
+new york fire museum,museum
+new york university,university
+new york university,university
+new york aquarium,aquarium
+grand central terminal,transit_station
+new york aquarium,aquarium
+madison sq park,park
+new york aquarium,aquarium
+american museum of natural history,museum
+federal hall,museum
+brooklyn bridge,establishment
+"central park,brooklyn bridge","park,establishment"
+"chinatown,new york aquarium,central park","neighborhood,aquarium,park"
+brooklyn bridge,establishment
+"empire state building,dumbo,brooklyn bridge","museum,neighborhood,establishment"
+"american museum of natural history,new york aquarium,federal reserve bank,grace church,new york fire museum,chrysler building,grand central terminal,bowling green,new york stock exchange,rockefeller center,staten island ferry,statue of liberty,empire state building,flatiron building,federal hall,herald square","museum,aquarium,establishment,church,museum,establishment,transit_station,park,finance,establishment,route,establishment,museum,establishment,museum,town_square"
+moma,art_gallery
+herald square,town_square
+"new york university,battery park,staten island ferry,empire state building,united nations","university,park,route,museum,establishment"
+ground zero,establishment
+new york university,university
+empire state building,museum
+st patricks cathedral,church
+central park,park
+"chelsea art museum,grace church,empire state building","art_gallery,church,museum"
+brooklyn bridge,establishment
+new york university,university
+empire state building,museum
+"chrysler building,solomon r guggenheim museum","establishment,museum"
+"bryant park,grand central terminal,st patricks cathedral,metropolitan museum of art,new york stock exchange,rockefeller center,frick collection,federal hall,solomon r guggenheim museum","park,transit_station,church,art_gallery,finance,establishment,museum,museum,museum"
+new york university,university
+"statue of liberty,brooklyn bridge","establishment,establishment"
+brooklyn bridge,establishment
+brooklyn bridge,establishment
+new york university,university
+"chrysler building,new york transit museum,empire state building","establishment,museum,museum"
+"solomon r guggenheim museum,new york university,city hall,grand central terminal,st patricks cathedral,metropolitan museum of art,new york stock exchange,chelsea art museum,staten island ferry,empire state building,brooklyn bridge,radio city music hall,washington sq park,federal hall,st pauls chapel,herald square","museum,university,local_government_office,transit_station,church,art_gallery,finance,art_gallery,route,museum,establishment,establishment,park,museum,church,town_square"
+"st patricks cathedral,statue of liberty,radio city music hall","church,establishment,establishment"
+ground zero,establishment
+new york university,university
+"empire state building,statue of liberty,brooklyn bridge","museum,establishment,establishment"
+"rockefeller center,brooklyn bridge","establishment,establishment"
+"grand central terminal,statue of liberty,ground zero","transit_station,establishment,establishment"
+central park,park
+"new york university,new york public library","university,library"
+"american museum of natural history,grand central terminal,st patricks cathedral,rockefeller center,statue of liberty,empire state building,brooklyn bridge,the dakota,solomon r guggenheim museum","museum,transit_station,church,establishment,establishment,museum,establishment,establishment,museum"
+"central park,brooklyn bridge","park,establishment"
+new york university,university
+grand central terminal,transit_station
+"chinatown,st patricks cathedral,central park,mulberry st","neighborhood,church,park,route"
+"chrysler building,staten island ferry","establishment,route"
+"new york aquarium,new york fire museum","aquarium,museum"
+"rockefeller center,statue of liberty","establishment,establishment"
+"rockefeller center,south st seaport,new york university","establishment,route,university"
+"rockefeller center,new york fire museum,new york aquarium,moma","establishment,museum,aquarium,art_gallery"
+statue of liberty,establishment
+"new york aquarium,new york university","aquarium,university"
+american museum of natural history,museum
+new york university,university
+"chinatown,new york transit museum","neighborhood,museum"
+"united nations,chrysler building","establishment,establishment"
+"chrysler building,new york stock exchange,staten island ferry,statue of liberty,empire state building,new york public library","establishment,finance,route,establishment,museum,library"
+"american museum of natural history,new-york historical society,st patricks cathedral,chelsea art museum,staten island ferry,empire state building,radio city music hall,herald square,wollman skating rink","museum,museum,church,art_gallery,route,museum,establishment,town_square,establishment"
+museum at fit,museum
+new york aquarium,aquarium
+new york university,university
+new york aquarium,aquarium
+"rockefeller center,central park,new york fire museum","establishment,park,museum"
+childrens museum of manhattan,museum
+new york aquarium,aquarium
+new york aquarium,aquarium
+new york aquarium,aquarium
+"city hall,grand central terminal,mulberry st,battery park,staten island ferry,empire state building","local_government_office,transit_station,route,park,route,museum"
+bowling green,park
+new york aquarium,aquarium
+"yankee stadium,empire state building","stadium,museum"
+brooklyn bridge,establishment
+new york university,university
+new york university,university
+"central park,prospect park,grand central terminal,chrysler building,new york stock exchange,brooklyn bridge,cathedral of st john the divine","park,park,transit_station,establishment,finance,establishment,church"
+"rockefeller center,st patricks cathedral","establishment,church"
+federal hall,museum
+empire state building,museum
+new york aquarium,aquarium
+new york university,university
+new york aquarium,aquarium
+"ellis island,new york university,statue of liberty,empire state building,solomon r guggenheim museum","establishment,university,establishment,museum,museum"
+"city hall,grand central terminal,ground zero,south st seaport,brooklyn bridge","local_government_office,transit_station,establishment,route,establishment"
+"new york aquarium,new york university","aquarium,university"
+new york aquarium,aquarium
+metropolitan museum of art,art_gallery
+new york university,university
+new york university,university
+"chinatown,rockefeller center","neighborhood,establishment"
+new york stock exchange,finance
+"st patricks cathedral,brooklyn bridge","church,establishment"
+"rockefeller center,chrysler building","establishment,establishment"
+chinatown,neighborhood
+"st patricks cathedral,empire state building,ground zero","church,museum,establishment"
+"new york university,moma","university,art_gallery"
+empire state building,museum
+"central park,brooklyn bridge","park,establishment"
+brooklyn bridge,establishment
+"empire state building,staten island ferry,herald square,brooklyn bridge","museum,route,town_square,establishment"
+chinatown,neighborhood
+brooklyn bridge,establishment
+chinatown,neighborhood
+"statue of liberty,empire state building","establishment,museum"
+new york university,university
+gallery 128,art_gallery
+new york university,university
+"herald square,empire state building,ground zero","town_square,museum,establishment"
+new york university,university
+riverside park,park
+new york aquarium,aquarium
+"prospect park,central park","park,park"
+empire state building,museum
+new york stock exchange,finance
+new york university,university
+"american museum of natural history,new york fire museum,mulberry st,metropolitan museum of art,empire state building,federal hall,st pauls chapel","museum,museum,route,art_gallery,museum,museum,church"
+new york university,university
+new york university,university
+"rockefeller center,new york aquarium,central park,new york university","establishment,aquarium,park,university"
+childrens museum of manhattan,museum
+empire state building,museum
+new york aquarium,aquarium
+"coney island boardwalk,brooklyn bridge","route,establishment"
+new york university,university
+new york university,university
+"new york university,staten island ferry,rockefeller center,empire state building","university,route,establishment,museum"
+"chinatown,statue of liberty,new york public library","neighborhood,establishment,library"
+empire state building,museum
+"madison sq park,union sq,empire state building,111 front street,flatiron building","park,political,museum,street_address,establishment"
+new york fire museum,museum
+union sq,political
+"empire state building,brooklyn bridge","museum,establishment"
+central park,park
+new york university,university
+brooklyn bridge,establishment
+moma,art_gallery
+new york aquarium,aquarium
+american museum of natural history,museum
+"statue of liberty,ellis island","establishment,establishment"
+new york university,university
+"madison sq park,staten island ferry,herald square,bryant park","park,route,town_square,park"
+new york university,university
+american museum of natural history,museum
+new york aquarium,aquarium
+st patricks cathedral,church
+ellis island,establishment
+new york university,university
+central park,park
+new york university,university
+new york university,university
+"st patricks cathedral,mulberry st,staten island ferry,radio city music hall,federal hall,museum of television and radio","church,route,route,establishment,museum,museum"
+"central park,new york university,madison sq park,staten island ferry,grace church,coney island boardwalk","park,university,park,route,church,route"
+"world trade center site,grand central terminal","premise,transit_station"
+new york university,university
+"new york university,bryant park,grand central terminal,st patricks cathedral,chelsea art museum,rockefeller center,staten island ferry,empire state building,radio city music hall","university,park,transit_station,church,art_gallery,establishment,route,museum,establishment"
+"world trade center site,new york aquarium,statue of liberty,new york university","premise,aquarium,establishment,university"
+"metropolitan museum of art,united nations,new york university","art_gallery,establishment,university"
+"prospect park,staten island ferry,statue of liberty,south st seaport","park,route,establishment,route"
+"grand central terminal,st patricks cathedral,ground zero,rockefeller center,empire state building,brooklyn bridge,federal hall,yankee stadium","transit_station,church,establishment,establishment,museum,establishment,museum,stadium"
+"metropolitan museum of art,rockefeller center,sheridan square,empire state building","art_gallery,establishment,route,museum"
+new york university,university
+new york university,university
+"empire state building,new york stock exchange,bryant park","museum,finance,park"
+lincoln center,establishment
+"central park,new york university","park,university"
+new york university,university
+empire state building,museum
+bryant park,park
+south st seaport,route
+"new york aquarium,new york university","aquarium,university"
+"new york aquarium,statue of liberty","aquarium,establishment"
+"new york university,st patricks cathedral,staten island ferry,rockefeller center,empire state building","university,church,route,establishment,museum"
+brooklyn bridge,establishment
+washington mews,route
+grace church,church
+new york university,university
+"world trade center site,trinity church","premise,church"
+"new york aquarium,ground zero,metropolitan museum of art,new york stock exchange,brooklyn bridge,solomon r guggenheim museum","aquarium,establishment,art_gallery,finance,establishment,museum"
+new york aquarium,aquarium
+"city hall,metropolitan museum of art,empire state building","local_government_office,art_gallery,museum"
+st patricks cathedral,church
+staten island ferry,route
+empire state building,museum
+new york aquarium,aquarium
+"ground zero,battery park,south st seaport,empire state building,brooklyn bridge,flatiron building,st pauls chapel,national arts club","establishment,park,route,museum,establishment,establishment,church,art_gallery"
+"american museum of natural history,cathedral of st john the divine,rockefeller center,empire state building","museum,church,establishment,museum"
+metropolitan museum of art,art_gallery
+"st patricks cathedral,statue of liberty","church,establishment"
+new york university,university
+radio city music hall,establishment
+chelsea hotel,lodging
+new york university,university
+new york university,university
+new york aquarium,aquarium
+new york university,university
+mulberry st,route
+new york aquarium,aquarium
+"new york stock exchange,chrysler building,new york aquarium,statue of liberty","finance,establishment,aquarium,establishment"
+new york university,university
+new york aquarium,aquarium
+"grand central terminal,bowling green,new york stock exchange,battery park,rockefeller center,staten island ferry,radio city music hall","transit_station,park,finance,park,establishment,route,establishment"
+brooklyn bridge,establishment
+new york university,university
+brooklyn bridge,establishment
+grand central terminal,transit_station
+"new york university,grand central terminal,neue galerie,rockefeller center,staten island ferry,empire state building,radio city music hall,flatiron building,herald square","university,transit_station,museum,establishment,route,museum,establishment,establishment,town_square"
+new york university,university
+"madison sq park,grand central terminal,chrysler building,new york stock exchange,rockefeller center,brooklyn bridge,solomon r guggenheim museum","park,transit_station,establishment,finance,establishment,establishment,museum"
+new york aquarium,aquarium
+drawing center,museum
+central park,park
+"new york university,chrysler building,rockefeller center,empire state building,flatiron building,united nations","university,establishment,establishment,museum,establishment,establishment"
+chinatown,neighborhood
+"grand central terminal,staten island ferry,empire state building,federal hall,washington sq park","transit_station,route,museum,museum,park"
+"new york university,empire state building","university,museum"
+central park,park
+"staten island ferry,statue of liberty,new york university","route,establishment,university"
+sheridan square,route
+battery park,park
+new york university,university
+central park,park
+grace church,church
+south st seaport,route
+"east river park,whitney museum of american art,central park,moma","park,museum,park,art_gallery"
+"american museum of natural history,moma","museum,art_gallery"
+new york transit museum,museum
+empire state building,museum
+"empire state building,brooklyn bridge","museum,establishment"
+coney island boardwalk,route
+new york university,university
+new york aquarium,aquarium
+trinity church,church
+"museum of the city of new york,union sq,new york stock exchange,staten island ferry,empire state building,st pauls chapel","museum,political,finance,route,museum,church"
+"staten island ferry,empire state building","route,museum"
+new york aquarium,aquarium
+chinatown,neighborhood
+"american museum of natural history,bryant park,ground zero,south st seaport,empire state building,radio city music hall,statue of liberty,washington sq park,herald square","museum,park,establishment,route,museum,establishment,establishment,park,town_square"
+new york university,university
+lincoln center,establishment
+"empire state building,ground zero","museum,establishment"
+"american museum of natural history,central park,lincoln center,metropolitan museum of art,the dakota","museum,park,establishment,art_gallery,establishment"
+hudson river park,park
+"bowling green,rockefeller center,statue of liberty,empire state building,drawing center,washington sq park,solomon r guggenheim museum","park,establishment,establishment,museum,museum,park,museum"
+"central park,radio city music hall","park,establishment"
+chinatown,neighborhood
+"new york aquarium,new york university,grand central terminal,ground zero,east river park,brooklyn bridge","aquarium,university,transit_station,establishment,park,establishment"
+"american museum of natural history,central park,bryant park,lincoln center,chrysler building,grand central terminal,rockefeller center,staten island ferry,empire state building,radio city music hall,united nations,yankee stadium,herald square,wollman skating rink","museum,park,park,establishment,establishment,transit_station,establishment,route,museum,establishment,establishment,stadium,town_square,establishment"
+new york university,university
+"grand central terminal,chelsea art museum,south st seaport,empire state building,museum of television and radio","transit_station,art_gallery,route,museum,museum"
+"american museum of natural history,new york university","museum,university"
+"statue of liberty,brooklyn bridge","establishment,establishment"
+"grand central terminal,st patricks cathedral,ground zero,rockefeller center,empire state building,radio city music hall,brooklyn bridge","transit_station,church,establishment,establishment,museum,establishment,establishment"
+new york university,university
+"st patricks cathedral,museum of television and radio,brooklyn bridge","church,museum,establishment"
+new york university,university
+new york aquarium,aquarium
+"metropolitan museum of art,radio city music hall","art_gallery,establishment"
+"st pauls chapel,rockefeller center,radio city music hall","church,establishment,establishment"
+"new york university,rockefeller center,central park,empire state building","university,establishment,park,museum"
+new york university,university
+"metropolitan museum of art,empire state building","art_gallery,museum"
+brooklyn bridge,establishment
+"new york aquarium,central park","aquarium,park"
+prospect park,park
+"rockefeller center,new york public library","establishment,library"
+new york aquarium,aquarium
+new york aquarium,aquarium
+new york aquarium,aquarium
+new york university,university
+new york public library,library
+"staten island ferry,grand central terminal,brooklyn bridge","route,transit_station,establishment"
+empire state building,museum
+new york aquarium,aquarium
+new york aquarium,aquarium
+"grand central terminal,empire state building,ground zero","transit_station,museum,establishment"
+"metropolitan museum of art,cathedral of st john the divine,empire state building,new york public library","art_gallery,church,museum,library"
+"american museum of natural history,new york transit museum","museum,museum"
+american museum of natural history,museum
+new york university,university
+statue of liberty,establishment
+new york university,university
+empire state building,museum
+"madison sq park,st pauls chapel,herald square,bowling green","park,church,town_square,park"
+"united nations,new york university","establishment,university"
+"grand central terminal,bryant park","transit_station,park"
+washington sq park,park
+"new york stock exchange,empire state building","finance,museum"
+washington sq park,park
+new york aquarium,aquarium
+st patricks cathedral,church
+"radio city music hall,statue of liberty,new york university","establishment,establishment,university"
+"empire state building,bryant park","museum,park"
+empire state building,museum
+"rockefeller center,radio city music hall","establishment,establishment"
+national arts club,art_gallery
+coney island boardwalk,route
+"battery park,moma","park,art_gallery"
+"madison sq park,sheridan square,st patricks cathedral,rockefeller center,washington sq park","park,route,church,establishment,park"
+new york university,university
+radio city music hall,establishment
+"washington sq park,childrens museum of manhattan","park,museum"
+"st pauls chapel,rockefeller center,herald square,empire state building","church,establishment,town_square,museum"
+chrysler building,establishment
+"ellis island,washington mews,statue of liberty,empire state building,washington sq park","establishment,route,establishment,museum,park"
+empire state building,museum
+cathedral of st john the divine,church
+battery park,park
+new york university,university
+"chelsea art museum,brooklyn bridge","art_gallery,establishment"
+empire state building,museum
+new york university,university
+"the dakota,empire state building","establishment,museum"
+"central park,bryant park,studio museum,bowling green,empire state building,brooklyn bridge,grace church,washington sq park","park,park,museum,park,museum,establishment,church,park"
+"new york university,chelsea art museum,staten island ferry,statue of liberty,empire state building,brooklyn bridge","university,art_gallery,route,establishment,museum,establishment"
+metropolitan museum of art,art_gallery
+bridgemarket,grocery_or_supermarket
+new york university,university
+new york university,university
+"new york aquarium,grand central terminal,chrysler building,new york stock exchange,brooklyn bridge,grace church,new york public library","aquarium,transit_station,establishment,finance,establishment,church,library"
+central park,park
+new york aquarium,aquarium
+brooklyn bridge,establishment
+"bryant park,grand central terminal,neue galerie,bowling green,new york stock exchange,empire state building,brooklyn bridge,radio city music hall,st pauls chapel,cathedral of st john the divine","park,transit_station,museum,park,finance,museum,establishment,establishment,church,church"
+"chrysler building,childrens museum of manhattan","establishment,museum"
+new york university,university
+"riverside church,union sq","church,political"
+"national museum of the american indian,st patricks cathedral,ground zero,new york stock exchange,battery park,rockefeller center,staten island ferry,empire state building,radio city music hall,yankee stadium,museum of television and radio","museum,church,establishment,finance,park,establishment,route,museum,establishment,stadium,museum"
+empire state building,museum
+"rockefeller center,statue of liberty,empire state building,brooklyn bridge,new york public library","establishment,establishment,museum,establishment,library"
+"new york aquarium,ground zero","aquarium,establishment"
+new york university,university
+new york aquarium,aquarium
+new york university,university
+statue of liberty,establishment
+"central park,new york fire museum,museum at fit,brooklyn bridge,studio museum","park,museum,museum,establishment,museum"
+new york aquarium,aquarium
+"grand central terminal,washington sq park,empire state building","transit_station,park,museum"
+new york university,university
+new york stock exchange,finance
+new york university,university
+new york university,university
+new york university,university
+grand central terminal,transit_station
+new york university,university
+new york aquarium,aquarium
+yankee stadium,stadium
+ground zero,establishment
+chrysler building,establishment
+new york aquarium,aquarium
+"statue of liberty,new york fire museum","establishment,museum"
+new york stock exchange,finance
+washington sq park,park
+american museum of natural history,museum
+"metropolitan museum of art,new york university","art_gallery,university"
+new york aquarium,aquarium
+grand central terminal,transit_station
+new york university,university
+empire state building,museum
+new york aquarium,aquarium
+new york university,university
+brooklyn bridge,establishment
+wollman skating rink,establishment
+"new york aquarium,tenement museum","aquarium,museum"
+new york university,university
+new york university,university
+"new york stock exchange,statue of liberty,empire state building","finance,establishment,museum"
+new york university,university
+chinatown,neighborhood
+"columbus park,federal reserve bank,st patricks cathedral,staten island ferry,empire state building,washington sq park","park,establishment,church,route,museum,park"
+new york aquarium,aquarium
+"madison sq park,lincoln center,st patricks cathedral,chelsea art museum,rockefeller center,radio city music hall,federal hall,st pauls chapel","park,establishment,church,art_gallery,establishment,establishment,museum,church"
+"washington sq park,empire state building","park,museum"
+"new york aquarium,statue of liberty,empire state building","aquarium,establishment,museum"
+central park,park
+"central park,st patricks cathedral,new york stock exchange,rockefeller center,statue of liberty,empire state building","park,church,finance,establishment,establishment,museum"
+empire state building,museum
+"bryant park,new york stock exchange,rockefeller center,111 front street,federal hall","park,finance,establishment,street_address,museum"
+city hall,local_government_office
+new york public library,library
+new york university,university
+new york university,university
+"federal reserve bank,madison sq park,grand central terminal,rockefeller center,south st seaport,empire state building,radio city music hall,st pauls chapel,grace church,national arts club","establishment,park,transit_station,establishment,route,museum,establishment,church,church,art_gallery"
+"american museum of natural history,statue of liberty","museum,establishment"
+"new york aquarium,brooklyn bridge","aquarium,establishment"
+new york university,university
+brooklyn bridge,establishment
+flatiron building,establishment
+"city hall,world trade center site","local_government_office,premise"
+"american museum of natural history,central park,chrysler building,metropolitan museum of art,empire state building","museum,park,establishment,art_gallery,museum"
+"st pauls chapel,rockefeller center,empire state building","church,establishment,museum"
+united nations,establishment
+"st patricks cathedral,new york stock exchange,rockefeller center,museum of sex,south st seaport,staten island ferry,federal hall,st pauls chapel","church,finance,establishment,museum,route,route,museum,church"
+"flatiron building,grace church,ground zero","establishment,church,establishment"
+new york aquarium,aquarium
+"sheridan square,st patricks cathedral,new york aquarium","route,church,aquarium"
+new york university,university
+empire state building,museum
+new york aquarium,aquarium
+new york university,university
+new york aquarium,aquarium
+"metropolitan museum of art,new york transit museum","art_gallery,museum"
+new york university,university
+"new york aquarium,empire state building,new york fire museum","aquarium,museum,museum"
+"union sq,washington sq park","political,park"
+new york university,university
+staten island ferry,route
+"chelsea hotel,moma","lodging,art_gallery"
+"metropolitan museum of art,rockefeller center","art_gallery,establishment"
+"bryant park,st patricks cathedral,union sq,rockefeller center,south st seaport,museum of television and radio","park,church,political,establishment,route,museum"
+"statue of liberty,rockefeller center,ellis island,empire state building","establishment,establishment,establishment,museum"
+new york university,university
+new york university,university
+"new york aquarium,new york university","aquarium,university"
+"bryant park,st patricks cathedral,rockefeller center,herald square,radio city music hall,museum of television and radio","park,church,establishment,town_square,establishment,museum"
+new york aquarium,aquarium
+"ellis island,madison sq park,st patricks cathedral,staten island ferry,south st seaport,radio city music hall,brooklyn bridge,statue of liberty,washington sq park,wollman skating rink","establishment,park,church,route,route,establishment,establishment,establishment,park,establishment"
+chinatown,neighborhood
+united nations,establishment
+metropolitan museum of art,art_gallery
+"statue of liberty,staten island ferry,south st seaport,brooklyn bridge","establishment,route,route,establishment"
+"grand central terminal,sheridan square,mulberry st,radio city music hall,united nations,st pauls chapel","transit_station,route,route,establishment,establishment,church"
+cathedral of st john the divine,church
+new york aquarium,aquarium
+"empire state building,ellis island,brooklyn bridge","museum,establishment,establishment"
+new york aquarium,aquarium
+"radio city music hall,st patricks cathedral,empire state building","establishment,church,museum"
+new york university,university
+"new york aquarium,brooklyn bridge","aquarium,establishment"
+central park,park
+new york university,university
+new york university,university
+"new york fire museum,national museum of the american indian,metropolitan museum of art,rockefeller center,staten island ferry,empire state building","museum,museum,art_gallery,establishment,route,museum"
+new york aquarium,aquarium
+"new york stock exchange,brooklyn bridge","finance,establishment"
+new york university,university
+new york university,university
+"empire state building,statue of liberty,brooklyn bridge","museum,establishment,establishment"
+museum of television and radio,museum
+new york university,university
+new york university,university
+brooklyn bridge,establishment
+"central park,bryant park,new york stock exchange,chelsea art museum,rockefeller center,brooklyn bridge,empire state building,federal hall,abyssinian baptist church","park,park,finance,art_gallery,establishment,establishment,museum,museum,church"
+central park,park
+new york university,university
+new york university,university
+"united nations,grand central terminal,st pauls chapel","establishment,transit_station,church"
+statue of liberty,establishment
+new york university,university
+"chelsea art museum,statue of liberty,111 front street","art_gallery,establishment,street_address"
+"grand central terminal,statue of liberty,empire state building","transit_station,establishment,museum"
+"statue of liberty,empire state building,childrens museum of manhattan","establishment,museum,museum"
+coney island boardwalk,route
+"ellis island,pierpont morgan library,metropolitan museum of art,statue of liberty,empire state building,solomon r guggenheim museum","establishment,museum,art_gallery,establishment,museum,museum"
+new york aquarium,aquarium
+"chrysler building,radio city music hall","establishment,establishment"
+new york aquarium,aquarium
+empire state building,museum
+new york university,university
+new york aquarium,aquarium
+new york university,university
+new york aquarium,aquarium
+new york aquarium,aquarium
+prospect park,park
+"ellis island,pierpont morgan library,city hall,st patricks cathedral,ground zero,statue of liberty,empire state building,brooklyn bridge","establishment,museum,local_government_office,church,establishment,establishment,museum,establishment"
+new york university,university
+"metropolitan museum of art,prospect park,central park","art_gallery,park,park"
+"chelsea art museum,rockefeller center,st patricks cathedral","art_gallery,establishment,church"
+statue of liberty,establishment
+"radio city music hall,rockefeller center,st patricks cathedral,empire state building","establishment,establishment,church,museum"
+ground zero,establishment
+new york university,university
+south st seaport,route
+new york university,university
+bryant park,park
+"chelsea art museum,historical society","art_gallery,museum"
+new york stock exchange,finance
+"american museum of natural history,statue of liberty,empire state building","museum,establishment,museum"
+new york aquarium,aquarium
+new york aquarium,aquarium
+"st patricks old cathedral,central park,bryant park,madison sq park,grand central terminal,st patricks cathedral,bowling green,metropolitan museum of art,chelsea art museum,rockefeller center,staten island ferry,brooklyn bridge,empire state building,radio city music hall,united nations,washington sq park","church,park,park,park,transit_station,church,park,art_gallery,art_gallery,establishment,route,establishment,museum,establishment,establishment,park"
+brooklyn bridge,establishment
+"new york university,brooklyn bridge","university,establishment"
+"new york aquarium,new york fire museum","aquarium,museum"
+new york aquarium,aquarium
+rockefeller center,establishment
+"herald square,mulberry st","town_square,route"
+new york university,university
+"new york aquarium,empire state building,new york public library","aquarium,museum,library"
+new york aquarium,aquarium
+yankee stadium,stadium
+"statue of liberty,new york university","establishment,university"
+new york marble cemetery,cemetery
+chrysler building,establishment
+"madison sq park,staten island ferry,st patricks cathedral,radio city music hall","park,route,church,establishment"
+"new york aquarium,new york university","aquarium,university"
+new york university,university
+new york university,university
+"metropolitan museum of art,the dakota,central park","art_gallery,establishment,park"
+"metropolitan museum of art,new york university","art_gallery,university"
+"staten island ferry,union sq,brooklyn bridge","route,political,establishment"
+new york university,university
+empire state building,museum
+"federal hall,rockefeller center,radio city music hall","museum,establishment,establishment"
+"statue of liberty,central park,brooklyn bridge","establishment,park,establishment"
+"empire state building,new york aquarium,brooklyn bridge","museum,aquarium,establishment"
+new york transit museum,museum
+"battery park,st pauls chapel,national museum of the american indian,empire state building","park,church,museum,museum"
+chrysler building,establishment
+new york university,university
+cathedral of st john the divine,church
+"city hall,madison sq park,chinatown,empire state building,herald square","local_government_office,park,neighborhood,museum,town_square"
+yankee stadium,stadium
+statue of liberty,establishment
+"tenement museum,museum of television and radio","museum,museum"
+new york university,university
+"metropolitan museum of art,new york stock exchange,statue of liberty","art_gallery,finance,establishment"
+new york university,university
+"chrysler building,new york aquarium,statue of liberty","establishment,aquarium,establishment"
+central park,park
+staten island ferry,route
+staten island ferry,route
+brooklyn bridge,establishment
+"st patricks old cathedral,bryant park,grand central terminal,chelsea art museum,rockefeller center,herald square,wollman skating rink","church,park,transit_station,art_gallery,establishment,town_square,establishment"
+"rockefeller center,grand central terminal,st patricks cathedral,radio city music hall","establishment,transit_station,church,establishment"
+new york aquarium,aquarium
+new york university,university
+new york aquarium,aquarium
+new york university,university
+empire state building,museum
+"chelsea art museum,grand central terminal","art_gallery,transit_station"
+"metropolitan museum of art,chelsea art museum,rockefeller center,statue of liberty,studio museum,museum of television and radio","art_gallery,art_gallery,establishment,establishment,museum,museum"
+"national museum of the american indian,washington sq park,brooklyn bridge","museum,park,establishment"
+"statue of liberty,brooklyn bridge","establishment,establishment"
+new york aquarium,aquarium
+new york aquarium,aquarium
+"grand central terminal,metropolitan museum of art,new york stock exchange,battery park,rockefeller center,south st seaport,united nations,cathedral of st john the divine","transit_station,art_gallery,finance,park,establishment,route,establishment,church"
+"rockefeller center,new york aquarium,new york university","establishment,aquarium,university"
+"new york university,grand central terminal,chrysler building,st patricks cathedral,mulberry st,rockefeller center,south st seaport,empire state building,washington sq park,wollman skating rink","university,transit_station,establishment,church,route,establishment,route,museum,park,establishment"
+"chelsea hotel,central park,city hall,lincoln center,chrysler building,rockefeller center,brooklyn bridge,empire state building,flatiron building,moma","lodging,park,local_government_office,establishment,establishment,establishment,establishment,museum,establishment,art_gallery"
+grand central terminal,transit_station
+"statue of liberty,ellis island,brooklyn bridge,new york public library","establishment,establishment,establishment,library"
+staten island ferry,route
+new york university,university
+statue of liberty,establishment
+"chrysler building,brooklyn bridge","establishment,establishment"
+new york university,university
+central park,park
+"chelsea hotel,grand central terminal,st patricks cathedral","lodging,transit_station,church"
+flatiron building,establishment
+new york university,university
+"new york aquarium,brooklyn bridge","aquarium,establishment"
+"chelsea art museum,chrysler building,new york marble cemetery","art_gallery,establishment,cemetery"
+washington mews,route
+"museum at fit,childrens museum of manhattan","museum,museum"
+"new york stock exchange,grand central terminal,new york university,new york public library","finance,transit_station,university,library"
+new york aquarium,aquarium
+"chrysler building,central park,empire state building","establishment,park,museum"
+"ground zero,bowling green,staten island ferry,statue of liberty,st pauls chapel","establishment,park,route,establishment,church"
+"chelsea art museum,rockefeller center,radio city music hall,empire state building,united nations,herald square","art_gallery,establishment,establishment,museum,establishment,town_square"
+new york university,university
+new york university,university
+new york aquarium,aquarium
+brooklyn bridge,establishment
+new york university,university
+new york aquarium,aquarium
+"statue of liberty,ellis island","establishment,establishment"
+new york university,university
+"south st seaport,chelsea art museum,ellis island","route,art_gallery,establishment"
+brooklyn bridge,establishment
+"ground zero,drawing center","establishment,museum"
+"metropolitan museum of art,american museum of natural history,grand central terminal,bryant park","art_gallery,museum,transit_station,park"
+new york aquarium,aquarium
+"american museum of natural history,chrysler building,grand central terminal","museum,establishment,transit_station"
+"metropolitan museum of art,brooklyn bridge","art_gallery,establishment"
+new york university,university
+metropolitan museum of art,art_gallery
+"chrysler building,trinity church","establishment,church"
+"ellis island,grand central terminal,chrysler building,ground zero,empire state building,united nations","establishment,transit_station,establishment,establishment,museum,establishment"
+"chinatown,battery park","neighborhood,park"
+bryant park,park
+chelsea art museum,art_gallery
+"empire state building,new york public library","museum,library"
+"coney island boardwalk,new york aquarium","route,aquarium"
+"american museum of natural history,new york transit museum,new york aquarium,new york marble cemetery,new york stock exchange","museum,museum,aquarium,cemetery,finance"
+"solomon r guggenheim museum,grand central terminal,st patricks cathedral,neue galerie,metropolitan museum of art,rockefeller center,radio city music hall,yankee stadium,museum of television and radio","museum,transit_station,church,museum,art_gallery,establishment,establishment,stadium,museum"
+"st patricks cathedral,metropolitan museum of art,statue of liberty,radio city music hall,empire state building","church,art_gallery,establishment,establishment,museum"
+herald square,town_square
+new york aquarium,aquarium
+"federal hall,bryant park","museum,park"
+new york university,university
+"new york marble cemetery,new york aquarium,new york fire museum","cemetery,aquarium,museum"
+new york university,university
+"bryant park,city hall,madison sq park,st patricks cathedral,union sq,neue galerie,ground zero,empire state building,brooklyn bridge,colonnade row,wollman skating rink","park,local_government_office,park,church,political,museum,establishment,museum,establishment,museum,establishment"
+cathedral of st john the divine,church
+new york university,university
+"lincoln center,empire state building","establishment,museum"
+"new york university,empire state building","university,museum"
+"flatiron building,empire state building","establishment,museum"
+"tompkins square park,chinatown,st marks in the bowery","park,neighborhood,church"
+empire state building,museum
+"central park,bowling green,chinatown,staten island ferry,washington sq park","park,park,neighborhood,route,park"
+brooklyn bridge,establishment
+"central park,empire state building","park,museum"
+new york aquarium,aquarium
+new york aquarium,aquarium
+staten island ferry,route
+rockefeller center,establishment
+"american museum of natural history,metropolitan museum of art,chinatown,staten island ferry,brooklyn bridge","museum,art_gallery,neighborhood,route,establishment"
+ground zero,establishment
+"united nations,new york university","establishment,university"
+rockefeller center,establishment
+new york university,university
+"grand central terminal,bowling green","transit_station,park"
+new york university,university
+new york university,university
+"new york aquarium,washington sq park","aquarium,park"
+"grand central terminal,washington sq park","transit_station,park"
+new york transit museum,museum
+new york university,university
+empire state building,museum
+staten island ferry,route
+new york aquarium,aquarium
+"central park,city hall,grand central terminal,ground zero,rockefeller center,statue of liberty,empire state building","park,local_government_office,transit_station,establishment,establishment,establishment,museum"
+chinatown,neighborhood
+"statue of liberty,rockefeller center,national museum of the american indian,ellis island","establishment,establishment,museum,establishment"
+central park,park
+"metropolitan museum of art,wollman skating rink","art_gallery,establishment"
+statue of liberty,establishment
+"national museum of the american indian,bowling green,battery park,staten island ferry,st pauls chapel","museum,park,park,route,church"
+new york university,university
+"grand central terminal,staten island ferry","transit_station,route"
+new york university,university
+"federal hall,washington sq park,brooklyn bridge","museum,park,establishment"
+washington sq park,park
+central park,park
+brooklyn bridge,establishment
+new york university,university
+new york aquarium,aquarium
+new york aquarium,aquarium
+"federal hall,staten island ferry,new york aquarium,statue of liberty","museum,route,aquarium,establishment"
+brooklyn bridge,establishment
+radio city music hall,establishment
+"statue of liberty,st patricks cathedral,ellis island,new york university","establishment,church,establishment,university"
+central park,park
+"new york university,bryant park","university,park"
+new york university,university
+"grace church,chrysler building,central park","church,establishment,park"
+"rockefeller center,union sq","establishment,political"
+"chrysler building,central park,empire state building","establishment,park,museum"
+st patricks cathedral,church
+new york aquarium,aquarium
+brooklyn bridge,establishment
+rockefeller center,establishment
+"empire state building,brooklyn bridge","museum,establishment"
+rockefeller center,establishment
+columbus park,park
+brooklyn bridge,establishment
+new york university,university
+"rockefeller center,new york aquarium","establishment,aquarium"
+"chinatown,brooklyn bridge","neighborhood,establishment"
+new york university,university
+rockefeller center,establishment
+"american museum of natural history,new york university","museum,university"
+new york university,university
+new york university,university
+brooklyn bridge,establishment
+herald square,town_square
+"new york aquarium,new york university,metropolitan museum of art,staten island ferry,empire state building","aquarium,university,art_gallery,route,museum"
+"st patricks cathedral,ground zero,metropolitan museum of art,bowling green,rockefeller center,federal hall,wollman skating rink","church,establishment,art_gallery,park,establishment,museum,establishment"
+new york aquarium,aquarium
+new york university,university
+pierpont morgan library,museum
+"staten island ferry,herald square","route,town_square"
+ground zero,establishment
+new york aquarium,aquarium
+"riverside church,union sq,bryant park","church,political,park"
+"new york stock exchange,new york transit museum,brooklyn bridge,new york fire museum","finance,museum,establishment,museum"
+"rockefeller center,central park,empire state building,studio museum","establishment,park,museum,museum"
+statue of liberty,establishment
+"cathedral of st john the divine,new york public library","church,library"
+staten island ferry,route
+new york aquarium,aquarium
+brooklyn bridge,establishment
+empire state building,museum
+"the dakota,rockefeller center,radio city music hall","establishment,establishment,establishment"
+"american museum of natural history,grand central terminal,herald square,empire state building","museum,transit_station,town_square,museum"
+"metropolitan museum of art,radio city music hall,staten island ferry,empire state building","art_gallery,establishment,route,museum"
+chinatown,neighborhood
+brooklyn bridge,establishment
+statue of liberty,establishment
+"federal hall,staten island ferry,drawing center","museum,route,museum"
+city hall,local_government_office
+chrysler building,establishment
+new york university,university
+staten island ferry,route
+"chrysler building,new york public library","establishment,library"
+cathedral of st john the divine,church
+metropolitan museum of art,art_gallery
+"grand central terminal,empire state building","transit_station,museum"
+brooklyn bridge,establishment
+new york university,university
+"new york university,new york aquarium,statue of liberty,brooklyn bridge","university,aquarium,establishment,establishment"
+"south st seaport,brooklyn bridge","route,establishment"
+central park,park
+"new york university,brooklyn bridge","university,establishment"
+empire state building,museum
+empire state building,museum
+new york aquarium,aquarium
+yankee stadium,stadium
+"new york university,brooklyn bridge","university,establishment"
+"rockefeller center,chrysler building","establishment,establishment"
+empire state building,museum
+"empire state building,bryant park,new york public library","museum,park,library"
+new york aquarium,aquarium
+new york aquarium,aquarium
+mulberry st,route
+chrysler building,establishment
+"world trade center site,statue of liberty","premise,establishment"
+"empire state building,rockefeller center,solomon r guggenheim museum,bryant park","museum,establishment,museum,park"
+statue of liberty,establishment
+statue of liberty,establishment
+"new york aquarium,bryant park,new york university,rockefeller center,brooklyn bridge,coney island boardwalk,new york public library","aquarium,park,university,establishment,establishment,route,library"
+radio city music hall,establishment
+empire state building,museum
+"bryant park,new york university,grand central terminal,chrysler building,ground zero,metropolitan museum of art,radio city music hall,st pauls chapel,museum of television and radio,wollman skating rink","park,university,transit_station,establishment,establishment,art_gallery,establishment,church,museum,establishment"
+rockefeller center,establishment
+"chrysler building,new york aquarium","establishment,aquarium"
+new york university,university
+"new york university,new york public library","university,library"
+"new york aquarium,new york university,lincoln center,chrysler building,rockefeller center","aquarium,university,establishment,establishment,establishment"
+staten island ferry,route
+staten island ferry,route
+"american museum of natural history,central park,riverside park,rockefeller center,brooklyn bridge,washington sq park","museum,park,park,establishment,establishment,park"
+new york university,university
+new york university,university
+new york university,university
+"dumbo,coney island boardwalk","neighborhood,route"
+"city hall,prospect park","local_government_office,park"
+"merchants house museum,new york university","museum,university"
+"rockefeller center,statue of liberty,new york university","establishment,establishment,university"
+new york university,university
+"sheridan square,bowling green,metropolitan museum of art,south st seaport,radio city music hall","route,park,art_gallery,route,establishment"
+new york aquarium,aquarium
+new york aquarium,aquarium
+"madison sq park,battery park,empire state building","park,park,museum"
+new york aquarium,aquarium
+"rockefeller center,radio city music hall","establishment,establishment"
+flatiron building,establishment
+"new york transit museum,chrysler building,rockefeller center,empire state building,united nations","museum,establishment,establishment,museum,establishment"
+"herald square,empire state building,new york public library","town_square,museum,library"
+central park,park
+new york aquarium,aquarium
+lincoln center,establishment
+moma,art_gallery
+"union sq,empire state building","political,museum"
+new york university,university
+new york public library,library
+dumbo,neighborhood
+"chelsea art museum,brooklyn bridge,museum at fit","art_gallery,establishment,museum"
+new york aquarium,aquarium
+empire state building,museum
+chinatown,neighborhood
+st pauls chapel,church
+new york fire museum,museum
+brooklyn bridge,establishment
+"brooklyn bridge,new york fire museum","establishment,museum"
+"new york aquarium,bryant park,grand central terminal,st patricks cathedral,mulberry st,empire state building,radio city music hall,washington sq park,new york public library","aquarium,park,transit_station,church,route,museum,establishment,park,library"
+"rockefeller center,new york university","establishment,university"
+"hudson river park,new york university,new york public library,statue of liberty,wollman skating rink","park,university,library,establishment,establishment"
+"american museum of natural history,staten island ferry","museum,route"
+"new york aquarium,brooklyn bridge","aquarium,establishment"
+new york university,university
+new york public library,library
+staten island ferry,route
+"metropolitan museum of art,united nations,new york aquarium","art_gallery,establishment,aquarium"
+new york university,university
+new york aquarium,aquarium
+new york university,university
+new york university,university
+chinatown,neighborhood
+"ellis island,new york university,grand central terminal,mulberry st,metropolitan museum of art,rockefeller center,staten island ferry","establishment,university,transit_station,route,art_gallery,establishment,route"
+brooklyn bridge,establishment
+staten island ferry,route
+statue of liberty,establishment
+"federal reserve bank,madison sq park,staten island ferry,empire state building,federal hall","establishment,park,route,museum,museum"
+"american museum of natural history,grand central terminal,new-york historical society,st patricks cathedral,metropolitan museum of art,chelsea art museum,staten island ferry,solomon r guggenheim museum,wollman skating rink","museum,transit_station,museum,church,art_gallery,art_gallery,route,museum,establishment"
+metropolitan museum of art,art_gallery
+"madison sq park,mulberry st","park,route"
+"federal hall,statue of liberty,empire state building,bowling green","museum,establishment,museum,park"
+new york aquarium,aquarium
+ground zero,establishment
+new york university,university
+"new york university,brooklyn bridge","university,establishment"
+"american museum of natural history,new york aquarium,chrysler building,tenement museum,ground zero,new york stock exchange,battery park,chelsea art museum,rockefeller center,statue of liberty,empire state building,united nations,federal hall,solomon r guggenheim museum","museum,aquarium,establishment,museum,establishment,finance,park,art_gallery,establishment,establishment,museum,establishment,museum,museum"
+"new york stock exchange,tenement museum,central park","finance,museum,park"
+"metropolitan museum of art,staten island ferry,colonnade row","art_gallery,route,museum"
+new york university,university
+new york university,university
+american museum of natural history,museum
+"central park,metropolitan museum of art,chelsea art museum,empire state building,solomon r guggenheim museum","park,art_gallery,art_gallery,museum,museum"
+flatiron building,establishment
+new york aquarium,aquarium
+new york university,university
+new york aquarium,aquarium
+new york university,university
+"lincoln center,new york aquarium,ground zero","establishment,aquarium,establishment"
+"st patricks cathedral,statue of liberty","church,establishment"
+bryant park,park
+"rockefeller center,ground zero","establishment,establishment"
+new york university,university
+"empire state building,radio city music hall,federal hall,brooklyn bridge","museum,establishment,museum,establishment"
+"coney island boardwalk,union sq","route,political"
+moma,art_gallery
+new york university,university
+"tompkins square park,tenement museum,childrens museum of manhattan","park,museum,museum"
+statue of liberty,establishment
+new york university,university
+"flatiron building,st pauls chapel,south st seaport","establishment,church,route"
+new york university,university
+"ellis island,central park,chrysler building,ground zero,grace church","establishment,park,establishment,establishment,church"
+brooklyn bridge,establishment
+rockefeller center,establishment
+"grand central terminal,chrysler building,empire state building","transit_station,establishment,museum"
+brooklyn bridge,establishment
+federal hall,museum
+rockefeller center,establishment
+central park,park
+"bryant park,grand central terminal,rockefeller center,radio city music hall,wollman skating rink","park,transit_station,establishment,establishment,establishment"
+new york aquarium,aquarium
+new york university,university
+"new york transit museum,new york university","museum,university"
+"brooklyn bridge,ground zero","establishment,establishment"
+"east river park,chelsea art museum,rockefeller center,staten island ferry,empire state building,brooklyn bridge,the dakota","park,art_gallery,establishment,route,museum,establishment,establishment"
+"central park,new york university","park,university"
+empire state building,museum
+"staten island ferry,chrysler building,grand central terminal","route,establishment,transit_station"
+new york university,university
+"statue of liberty,bryant park,bowling green","establishment,park,park"
